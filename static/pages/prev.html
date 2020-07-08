@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  <head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="icon" href="../images/nj_icon.png" type="image/x-icon" sizes="16x16">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/stylesheet.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">NJ Lyme</a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="../../">Home</a></li>
+          <li class="active"><a href="prev.html">Prevention</a></li>
+          <li><a href="doc.html">Documentation</a></li>
+          <li><a href="ref.html">References</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">More Info
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="https://www.cdc.gov/lyme/index.html" target="_blank">CDC - Lyme Disease</a></li>
+              <li><a href="https://www.state.nj.us/health/cd/topics/lyme.shtml" target="_blank">NJ DOH</a></li>
+              <li><a href="https://www.lymedisease.org/" target="_blank">LymeDisease.org</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+</nav>
+        <div class="img-container">
+          <img src="../images/middletown.jpg" alt="Middletown" style="width:100%;">
+          <div class="centered">
+                <h1 id="primary-title">
+                    <strong>Prevention</strong>
+                    <br>
+                </h1>
+          </div>
+        </div>
+      <div class="container-fluid prevent-page">
+	<div class="row">
+    <hr>
+    <div class="col-md-12" id="sec-head">
+      <h3>Who is at risk?
+      </h3>
+      <br>
+    </div>
+    <!-- <div class="col-md-6">
+      <img alt="Areas at risk in US" src="https://www.cdc.gov/ncezid/dvbd/images/media/lymedisease/LD-2018-dot-map.jpg" />
+    </div> -->
+		<div class="col-md-6">
+			<p>
+        Within the United States the area’s most at risk for Lyme disease centers on the New-England and Mid-Atlantic regions,
+        with some areas along the North-Pacific also reporter higher incident rates.
+        Because Lyme disease is carried by tick species, areas where ticks are prevalent such as wooded areas or those that border
+        wooded areas pose the greatest threat. Keep in mind that in New Jersey and other states ticks are prevalent enough to be found
+        in yards and parks. A good rule of thumb is to consider anywhere you have seen deer to be a location that you could find a tick.
+        The summer months when ticks are most active, and individuals are more likely to be outdoors are the most common time of year to encounter
+        ticks and contact Lyme disease. However, there are strategies people can take to reduce your chance of being bit and infected.
+			</p>
+      <p>
+        Because Lyme disease is carried by tick species, areas where ticks are prevalent such as wooded areas or those that border wooded areas pose the greatest threat. Keep in mind that in New Jersey and other states ticks are prevalent enough to be found in yards and parks. A good rule of thumb is to consider anywhere you have seen deer to be a location that you could find a tick.
+        </p>
+      <p>
+        The warmer months when ticks are most active, and individuals are more likely to be outdoors, are the most common time of year to encounter ticks and contact Lyme disease. However, there are strategies people can take to reduce your chance and your pet's of being bit and infected.
+      </p>
+		</div>
+    <div class="col-md-6">
+      <div id="incidentPie">
+      </div>
+    </div>
+	</div>
+  <hr>
+	<div class="row">
+    <div class="col-md-12" id="sec-head">
+      <h3>
+      Preventing Bites
+    </h3>
+    <br>
+    </div>
+		<div class="col-md-8">
+			<dl id="prevention-list">
+				<dt>
+					Keep away from at risk areas
+				</dt>
+				<dd>
+					Ticks predominantly spend time in shaded leafy areas, particularly  at the edges of wooded areas where animals
+           such as deer may pass through. Staying on designated paths while hiking and not straying into brush can help
+           prevent you from encountering any ticks looking for their next meal.
+				</dd>
+				<dt>
+					Wear protective clothing
+				</dt>
+				<dd>
+					Once a tick manages to climb onto an individual, they will begin to look for the best place to bite down.
+          Wearing clothes that fully cover the legs and arms can add an extra barrier to tick bites.
+				</dd>
+				<dd>
+					The chemical permethrin has been found to repel ticks by effectively stunning them, causing them to fall off.
+          Clothing can be treated with products containing 0.5% permethrin and will remaining treated through several washes.
+				</dd>
+        <dd>
+          When coming in after an outing the CDC recommended to put clothes into a dryer on high heat for 10minutes to kill
+          any ticks present on clothing.
+        </dd>
+				<dt>
+					Use insect repellents
+				</dt>
+				<dd>
+					Many different insecticides work on ticks, including DEEAT, picaridin, oil of lemon eucalyptus, and others.
+          See the EPA's insecticide search tool for more info on what will work best for you.
+				</dd>
+				<dt>
+					Perform tick checks after outings
+				</dt>
+				<dd>
+					The most important step is to perform a tick check any time after you have been in an at-risk area. See instructions provided.
+				</dd>
+			</dl>
+      <div class="row">
+        <div class="col-md-12">
+          <img alt="Blacklegged Tick" class="center-block" src="../images/Blacklegged_Tick_Ixodes_scapularis.png"/>
+        </div>
+      </div>
+		</div>
+		<div class="col-md-4 tick_check">
+      <h4><strong>Performing Tick Checks</strong></h4>
+			<p>
+        Carefully, starting at your feet or lowest point on your body, check over your skin for ticks. Pay close attention to areas that are more hidden,
+        such as behind the knees, underarms, between legs, belly button, around the ears, in and around hair, and along any tight lines from clothing. If you
+        cannot visually check an area, such as the top of your head, run your hands back and forth over the area. Ticks are relatively flat, so going in multiple
+        directions can help expose the tick from the skin, and you may feel like a small skin tag.
+        Taking a shower within two hours of coming indoors is a good way to wash off any small ticks that have not yet bitten down and provide a good opportunity to check
+        your body. Any clothing you cannot wash or tumble dry should be checked over to prevent ticks from being carrier indoors.
+        Remember to check your pets as well, for dogs and cats the ears and underarms are a very common location to find ticks. You perform a tick check for them the same
+        way you can for yourself and you can help protect your pets with flea and tick medicine as well as the Lyme disease vaccine.
+
+			</p>
+		</div>
+	</div>
+  <hr>
+  <h3><i>How to safely remove a tick</i></h3>
+	<div class="row">
+		<div class="col-md-6">
+			<ul>
+				<li class="list-item">
+				Use a pair of tweezers to grasp the tick right at the point of contact with the skin.
+				</li>
+				<li class="list-item">
+				With even pressure, pull straight upward. You do not want to twist the tweezers and risk causing the tick’s mouth parts to break off and stay attached.
+				</li>
+				<li class="list-item">
+				After removing the tick wash the bite area and your hands and tweezers with soap and water or rubbing alcohol.
+				</li>
+				<li class="list-item">
+				Dispose of the tick by putting it into alcohol, placing in a sealed bag, wrapping tightly with tape, or flushing down the toilet. Do not attempt to crush the tick, Lyme disease is caused by a bacteria and can spread if the tick is crushed.
+				</li>
+        <li class="list-item">
+        You do not need to keep the tick for testing.
+        </li>
+			</ul>
+		</div>
+		<div class="col-md-6">
+			<img alt="Tick Removal Diagram" class="center-block" src="../images/removal.jpg" />
+		</div>
+	</div>
+  <hr>
+	<div class="row">
+    <div class="col-md-12" id="sec-head">
+      <h3>Signs and symptoms</h3>
+    </div>
+  		<div class="col-md-4 symptoms">
+        <div class="col-md-12">
+          <h4>3-30 Days Post Bite</h4>
+  			<dl>
+  				<dt>
+  					Fever, headache, fatigue, chills, muscle and joint ache, and swollen lymph nodes
+  				</dt>
+  				<dt>
+  					Erythema migrans rash (see image)
+  				</dt>
+  				<dd>
+  					Occurs in 70-80% of cases
+  				</dd>
+  				<dd>
+  					May be warm but is rarely itchy or painful
+  				</dd>
+  			 </dl>
+  		  </div>
+        <div class="col-md-12">
+          <h4>Days to Months Post Bite</h4>
+        <dl>
+          <dt>
+            More Severe Versions of Earlier Symptoms
+          </dt>
+          <dd>
+            Severe headache and neck stiffness
+          </dd>
+          <dd>
+            Arthritis with severe joint paint
+          </dd>
+          <dd>
+            Intermitten pain in muscles, joints, and bones
+          </dd>
+          <dt>
+            Facial Palsy
+          </dt>
+          <dt>
+            Dizziness or shortness of breath
+          </dt>
+          <dt>
+            Irregular heartbeat
+          </dt>
+          <dt>
+            Nerve pain and damage
+          </dt>
+          <dd>
+            Numbness or tingling in the hands and fingers
+          </dd>
+          <dt>
+            Inflammation of the brain
+          </dt>
+         </dl>
+        </div>
+      </div>
+		<div class="col-md-4">
+			<img alt="Bullseye Rash" class="center-block" src="../images/lyme-disease-bullseye-rash.jpg" />
+		</div>
+		<div class="col-md-4 todoif">
+      <div class="col-md-12">
+        <h4><strong>What to do if you suspect Lyme Disease</strong></h4>
+          <p>
+    				If you have experienced a tick bite or may have been bitten and believe you might have Lyme disease you
+            should visit your Primary Care Provider. Lyme disease is diagnosed from a blood sample via an antibody test.
+          </p>
+      </div>
+      <div class="col-md-12">
+        <h5><strong>Treatment</strong></h5>
+        <p>
+          Lyme disease is most commonly treated with a 10 to 21-day course of oral antibiotics
+        </p>
+        </div>
+        <div class="col-md-12">
+          <h5><strong>Post treatment Lyme disease syndrome</strong></h5>
+          <p>
+            Anecdotal evidence exists to suggest that some individuals may experience long term effects from a prior Lyme disease infection,
+            with symptoms occurring more than 6 months post treatment. There is not complete scientific consensus on what this condition is or
+            what causes it.
+          </p>
+        </div>
+		</div>
+	</div>
+</div>
+      <script src="../js/months.js"></script>
+  </body>
+
+  </html>

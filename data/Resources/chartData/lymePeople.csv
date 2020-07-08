@@ -1,0 +1,155 @@
+,year,county,cases
+1,2012,Statewide,3573
+2,2012,Atlantic County,97
+3,2012,Morris County,401
+4,2012,Cape May County,41
+5,2012,Sussex County,335
+6,2012,Cumberland County,88
+7,2012,Monmouth County,337
+8,2012,Hunterdon County,207
+9,2012,Gloucester County,138
+10,2012,Hudson County,26
+11,2012,Bergen County,183
+12,2012,Essex County,121
+13,2012,Burlington County,260
+14,2012,Union County,76
+15,2012,Warren County,196
+16,2012,Middlesex County,158
+17,2012,Mercer County,141
+18,2012,Camden County,88
+19,2012,Salem County,53
+20,2012,Ocean County,204
+21,2012,Somerset County,251
+22,2012,Passaic County,172
+23,2013,Statewide,3766
+24,2013,Somerset County,215
+25,2013,Ocean County,210
+26,2013,Sussex County,347
+27,2013,Monmouth County,372
+28,2013,Cape May County,26
+29,2013,Gloucester County,101
+30,2013,Hudson County,49
+31,2013,Morris County,558
+32,2013,Burlington County,211
+33,2013,Warren County,213
+34,2013,Passaic County,180
+35,2013,Bergen County,241
+36,2013,Union County,78
+37,2013,Hunterdon County,225
+38,2013,Camden County,129
+39,2013,Cumberland County,60
+40,2013,Atlantic County,67
+41,2013,Salem County,52
+42,2013,Mercer County,141
+43,2013,Middlesex County,160
+44,2013,Essex County,131
+45,2014,Statewide,2846
+46,2014,Monmouth County,439
+47,2014,Morris County,408
+48,2014,Hudson County,44
+49,2014,Mercer County,143
+50,2014,Middlesex County,220
+51,2014,Gloucester County,124
+52,2014,Essex County,114
+53,2014,Ocean County,232
+54,2014,Cumberland County,60
+55,2014,Hunterdon County,89
+56,2014,Somerset County,144
+57,2014,Cape May County,12
+58,2014,Bergen County,212
+59,2014,Camden County,113
+60,2014,Atlantic County,101
+61,2014,Union County,59
+62,2014,Warren County,108
+63,2014,Burlington County,196
+64,2014,Sussex County,258
+65,2014,Salem County,19
+66,2014,Passaic County,190
+67,2015,Statewide,4854
+68,2015,Cape May County,27
+69,2015,Sussex County,309
+70,2015,Hudson County,54
+71,2015,Salem County,37
+72,2015,Mercer County,249
+73,2015,Passaic County,244
+74,2015,Cumberland County,86
+75,2015,Union County,107
+76,2015,Warren County,269
+77,2015,Monmouth County,530
+78,2015,Gloucester County,128
+79,2015,Middlesex County,288
+80,2015,Ocean County,290
+81,2015,Hunterdon County,456
+82,2015,Atlantic County,114
+83,2015,Morris County,572
+84,2015,Camden County,138
+85,2015,Somerset County,258
+86,2015,Bergen County,275
+87,2015,Essex County,165
+88,2015,Burlington County,258
+89,2016,Statewide,4349
+90,2016,Passaic County,204
+91,2016,Ocean County,274
+92,2016,Camden County,123
+93,2016,Hunterdon County,210
+94,2016,Bergen County,279
+95,2016,Atlantic County,93
+96,2016,Salem County,32
+97,2016,Mercer County,262
+98,2016,Cumberland County,98
+99,2016,Warren County,243
+100,2016,Union County,95
+101,2016,Somerset County,216
+102,2016,Essex County,158
+103,2016,Gloucester County,119
+104,2016,Middlesex County,303
+105,2016,Burlington County,280
+106,2016,Hudson County,50
+107,2016,Morris County,539
+108,2016,Sussex County,260
+109,2016,Monmouth County,492
+110,2016,Cape May County,19
+111,2017,Statewide,5091
+112,2017,Somerset County,280
+113,2017,Ocean County,302
+114,2017,Camden County,159
+115,2017,Cumberland County,99
+116,2017,Passaic County,165
+117,2017,Monmouth County,550
+118,2017,Sussex County,331
+119,2017,Morris County,649
+120,2017,Warren County,393
+121,2017,Salem County,45
+122,2017,Gloucester County,124
+123,2017,Essex County,207
+124,2017,Burlington County,227
+125,2017,Cape May County,22
+126,2017,Hunterdon County,444
+127,2017,Hudson County,72
+128,2017,Union County,110
+129,2017,Atlantic County,66
+130,2017,Mercer County,222
+131,2017,Middlesex County,321
+132,2017,Bergen County,303
+133,2018,Statewide,4000
+134,2018,Burlington County,186
+135,2018,Cape May County,31
+136,2018,Middlesex County,154
+137,2018,Sussex County,246
+138,2018,Gloucester County,109
+139,2018,Monmouth County,506
+140,2018,Somerset County,225
+141,2018,Hudson County,26
+142,2018,Union County,92
+143,2018,Camden County,157
+144,2018,Morris County,472
+145,2018,Bergen County,232
+146,2018,Passaic County,149
+147,2018,Salem County,58
+148,2018,Hunterdon County,335
+149,2018,Mercer County,165
+150,2018,Ocean County,290
+151,2018,Cumberland County,81
+152,2018,Essex County,167
+153,2018,Atlantic County,75
+154,2018,Warren County,244

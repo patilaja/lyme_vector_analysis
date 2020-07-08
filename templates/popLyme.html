@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">    
+  <link rel="stylesheet" href="static/css/style.css">
+  <link rel="stylesheet" href="static/css/d3Style.css">    
+  <title>Data Visualization</title>
+</head>
+<body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12  col-md-9 col-md-12 jumbotron text-center">
+          <h3>Deep Population~ Lyme Case Info</h3>
+        </div>
+      </div>
+    <!-- The div that holds our map -->   
+    <div class="row">  
+        <div class="col-xs-12 col-md-9 col-md-12">
+            <!-- Create a div where the graph will take place -->
+            <div id="my_chart"></div>
+        </div>
+    </div>
+    </div>
+   <!-- Load d3.js -->
+   <script src="https://d3js.org/d3.v4.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+   <!-- Load color scale -->
+   <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>    
+   <!-- JS -->
+   <script type="text/javascript" src="static/js/logicLymePop.js"></script>
+</body>
+</html>
+
+
+
+

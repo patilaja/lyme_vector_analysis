@@ -1,0 +1,3110 @@
+,fips_code,state,county,county_status
+0,1001,AL,Autauga County,Established
+1,1003,AL,Baldwin County,Established
+2,1005,AL,Barbour County,Established
+3,1007,AL,Bibb County,Established
+4,1009,AL,Blount County,No records
+5,1011,AL,Bullock County,Established
+6,1013,AL,Butler County,Established
+7,1015,AL,Calhoun County,No records
+8,1017,AL,Chambers County,Established
+9,1019,AL,Cherokee County,No records
+10,1021,AL,Chilton County,Reported
+11,1023,AL,Choctaw County,Established
+12,1025,AL,Clarke County,Established
+13,1027,AL,Clay County,Reported
+14,1029,AL,Cleburne County,Reported
+15,1031,AL,Coffee County,Reported
+16,1033,AL,Colbert County,Established
+17,1035,AL,Conecuh County,Established
+18,1037,AL,Coosa County,Established
+19,1039,AL,Covington County,Established
+20,1041,AL,Crenshaw County,Reported
+21,1043,AL,Cullman County,No records
+22,1045,AL,Dale County,Reported
+23,1047,AL,Dallas County,Established
+24,1049,AL,DeKalb County,No records
+25,1051,AL,Elmore County,Established
+26,1053,AL,Escambia County,Established
+27,1055,AL,Etowah County,No records
+28,1057,AL,Fayette County,Established
+29,1059,AL,Franklin County,Established
+30,1061,AL,Geneva County,Reported
+31,1063,AL,Greene County,No records
+32,1065,AL,Hale County,Established
+33,1067,AL,Henry County,Established
+34,1069,AL,Houston County,Reported
+35,1071,AL,Jackson County,Established
+36,1073,AL,Jefferson County,Reported
+37,1075,AL,Lamar County,No records
+38,1077,AL,Lauderdale County,No records
+39,1079,AL,Lawrence County,Reported
+40,1081,AL,Lee County,Established
+41,1083,AL,Limestone County,No records
+42,1085,AL,Lowndes County,Reported
+43,1087,AL,Macon County,No records
+44,1089,AL,Madison County,Reported
+45,1091,AL,Marengo County,Reported
+46,1093,AL,Marion County,No records
+47,1095,AL,Marshall County,No records
+48,1097,AL,Mobile County,Established
+49,1099,AL,Monroe County,Established
+50,1101,AL,Montgomery County,Reported
+51,1103,AL,Morgan County,No records
+52,1105,AL,Perry County,No records
+53,1107,AL,Pickens County,Established
+54,1109,AL,Pike County,No records
+55,1111,AL,Randolph County,Reported
+56,1113,AL,Russell County,Established
+57,1115,AL,St. Clair County,No records
+58,1117,AL,Shelby County,No records
+59,1119,AL,Sumter County,Reported
+60,1121,AL,Talladega County,Reported
+61,1123,AL,Tallapoosa County,Established
+62,1125,AL,Tuscaloosa County,Reported
+63,1127,AL,Walker County,No records
+64,1129,AL,Washington County,Reported
+65,1131,AL,Wilcox County,Reported
+66,1133,AL,Winston County,Established
+67,4001,AZ,Apache County,No records
+68,4003,AZ,Cochise County,No records
+69,4005,AZ,Coconino County,No records
+70,4007,AZ,Gila County,No records
+71,4009,AZ,Graham County,No records
+72,4011,AZ,Greenlee County,No records
+73,4012,AZ,La Paz County,No records
+74,4013,AZ,Maricopa County,No records
+75,4015,AZ,Mohave County,No records
+76,4017,AZ,Navajo County,No records
+77,4019,AZ,Pima County,No records
+78,4021,AZ,Pinal County,No records
+79,4023,AZ,Santa Cruz County,No records
+80,4025,AZ,Yavapai County,No records
+81,4027,AZ,Yuma County,No records
+82,5001,AR,Arkansas County,No records
+83,5003,AR,Ashley County,Established
+84,5005,AR,Baxter County,Established
+85,5007,AR,Benton County,Established
+86,5009,AR,Boone County,Established
+87,5011,AR,Bradley County,No records
+88,5013,AR,Calhoun County,Reported
+89,5015,AR,Carroll County,Reported
+90,5017,AR,Chicot County,No records
+91,5019,AR,Clark County,Established
+92,5021,AR,Clay County,No records
+93,5023,AR,Cleburne County,Established
+94,5025,AR,Cleveland County,No records
+95,5027,AR,Columbia County,Reported
+96,5029,AR,Conway County,Reported
+97,5031,AR,Craighead County,No records
+98,5033,AR,Crawford County,Established
+99,5035,AR,Crittenden County,No records
+100,5037,AR,Cross County,No records
+101,5039,AR,Dallas County,Reported
+102,5041,AR,Desha County,No records
+103,5043,AR,Drew County,Reported
+104,5045,AR,Faulkner County,Established
+105,5047,AR,Franklin County,Established
+106,5049,AR,Fulton County,Established
+107,5051,AR,Garland County,Established
+108,5053,AR,Grant County,Established
+109,5055,AR,Greene County,No records
+110,5057,AR,Hempstead County,Established
+111,5059,AR,Hot Spring County,No records
+112,5061,AR,Howard County,Reported
+113,5063,AR,Independence County,No records
+114,5065,AR,Izard County,Reported
+115,5067,AR,Jackson County,No records
+116,5069,AR,Jefferson County,Reported
+117,5071,AR,Johnson County,Reported
+118,5073,AR,Lafayette County,Reported
+119,5075,AR,Lawrence County,Established
+120,5077,AR,Lee County,No records
+121,5079,AR,Lincoln County,Reported
+122,5081,AR,Little River County,No records
+123,5083,AR,Logan County,Reported
+124,5085,AR,Lonoke County,No records
+125,5087,AR,Madison County,Established
+126,5089,AR,Marion County,Established
+127,5091,AR,Miller County,No records
+128,5093,AR,Mississippi County,No records
+129,5095,AR,Monroe County,No records
+130,5097,AR,Montgomery County,Reported
+131,5099,AR,Nevada County,Reported
+132,5101,AR,Newton County,Reported
+133,5103,AR,Ouachita County,Reported
+134,5105,AR,Perry County,Reported
+135,5107,AR,Phillips County,No records
+136,5109,AR,Pike County,Reported
+137,5111,AR,Poinsett County,Established
+138,5113,AR,Polk County,Established
+139,5115,AR,Pope County,Established
+140,5117,AR,Prairie County,Established
+141,5119,AR,Pulaski County,Reported
+142,5121,AR,Randolph County,Reported
+143,5123,AR,St. Francis County,No records
+144,5125,AR,Saline County,Established
+145,5127,AR,Scott County,Reported
+146,5129,AR,Searcy County,Established
+147,5131,AR,Sebastian County,Established
+148,5133,AR,Sevier County,Established
+149,5135,AR,Sharp County,Reported
+150,5137,AR,Stone County,Established
+151,5139,AR,Union County,Established
+152,5141,AR,Van Buren County,Reported
+153,5143,AR,Washington County,Established
+154,5145,AR,White County,No records
+155,5147,AR,Woodruff County,No records
+156,5149,AR,Yell County,Reported
+157,6001,CA,Alameda County,No records
+158,6003,CA,Alpine County,No records
+159,6005,CA,Amador County,No records
+160,6007,CA,Butte County,No records
+161,6009,CA,Calaveras County,No records
+162,6011,CA,Colusa County,No records
+163,6013,CA,Contra Costa County,No records
+164,6015,CA,Del Norte County,No records
+165,6017,CA,El Dorado County,No records
+166,6019,CA,Fresno County,No records
+167,6021,CA,Glenn County,No records
+168,6023,CA,Humboldt County,No records
+169,6025,CA,Imperial County,No records
+170,6027,CA,Inyo County,No records
+171,6029,CA,Kern County,No records
+172,6031,CA,Kings County,No records
+173,6033,CA,Lake County,No records
+174,6035,CA,Lassen County,No records
+175,6037,CA,Los Angeles County,No records
+176,6039,CA,Madera County,No records
+177,6041,CA,Marin County,No records
+178,6043,CA,Mariposa County,No records
+179,6045,CA,Mendocino County,No records
+180,6047,CA,Merced County,No records
+181,6049,CA,Modoc County,No records
+182,6051,CA,Mono County,No records
+183,6053,CA,Monterey County,No records
+184,6055,CA,Napa County,No records
+185,6057,CA,Nevada County,No records
+186,6059,CA,Orange County,No records
+187,6061,CA,Placer County,No records
+188,6063,CA,Plumas County,No records
+189,6065,CA,Riverside County,No records
+190,6067,CA,Sacramento County,No records
+191,6069,CA,San Benito County,No records
+192,6071,CA,San Bernardino County,No records
+193,6073,CA,San Diego County,No records
+194,6075,CA,San Francisco County,No records
+195,6077,CA,San Joaquin County,No records
+196,6079,CA,San Luis Obispo County,No records
+197,6081,CA,San Mateo County,No records
+198,6083,CA,Santa Barbara County,No records
+199,6085,CA,Santa Clara County,No records
+200,6087,CA,Santa Cruz County,No records
+201,6089,CA,Shasta County,No records
+202,6091,CA,Sierra County,No records
+203,6093,CA,Siskiyou County,No records
+204,6095,CA,Solano County,No records
+205,6097,CA,Sonoma County,No records
+206,6099,CA,Stanislaus County,No records
+207,6101,CA,Sutter County,No records
+208,6103,CA,Tehama County,No records
+209,6105,CA,Trinity County,No records
+210,6107,CA,Tulare County,No records
+211,6109,CA,Tuolumne County,No records
+212,6111,CA,Ventura County,No records
+213,6113,CA,Yolo County,No records
+214,6115,CA,Yuba County,No records
+215,8001,CO,Adams County,No records
+216,8003,CO,Alamosa County,No records
+217,8005,CO,Arapahoe County,No records
+218,8007,CO,Archuleta County,No records
+219,8009,CO,Baca County,No records
+220,8011,CO,Bent County,No records
+221,8013,CO,Boulder County,No records
+222,8014,CO,Broomfield County,No records
+223,8015,CO,Chaffee County,No records
+224,8017,CO,Cheyenne County,No records
+225,8019,CO,Clear Creek County,No records
+226,8021,CO,Conejos County,No records
+227,8023,CO,Costilla County,No records
+228,8025,CO,Crowley County,No records
+229,8027,CO,Custer County,No records
+230,8029,CO,Delta County,No records
+231,8031,CO,Denver County,No records
+232,8033,CO,Dolores County,No records
+233,8035,CO,Douglas County,No records
+234,8037,CO,Eagle County,No records
+235,8039,CO,Elbert County,No records
+236,8041,CO,El Paso County,No records
+237,8043,CO,Fremont County,No records
+238,8045,CO,Garfield County,No records
+239,8047,CO,Gilpin County,No records
+240,8049,CO,Grand County,No records
+241,8051,CO,Gunnison County,No records
+242,8053,CO,Hinsdale County,No records
+243,8055,CO,Huerfano County,No records
+244,8057,CO,Jackson County,No records
+245,8059,CO,Jefferson County,No records
+246,8061,CO,Kiowa County,No records
+247,8063,CO,Kit Carson County,No records
+248,8065,CO,Lake County,No records
+249,8067,CO,La Plata County,No records
+250,8069,CO,Larimer County,No records
+251,8071,CO,Las Animas County,No records
+252,8073,CO,Lincoln County,No records
+253,8075,CO,Logan County,No records
+254,8077,CO,Mesa County,No records
+255,8079,CO,Mineral County,No records
+256,8081,CO,Moffat County,No records
+257,8083,CO,Montezuma County,No records
+258,8085,CO,Montrose County,No records
+259,8087,CO,Morgan County,No records
+260,8089,CO,Otero County,No records
+261,8091,CO,Ouray County,No records
+262,8093,CO,Park County,No records
+263,8095,CO,Phillips County,No records
+264,8097,CO,Pitkin County,No records
+265,8099,CO,Prowers County,No records
+266,8101,CO,Pueblo County,No records
+267,8103,CO,Rio Blanco County,No records
+268,8105,CO,Rio Grande County,No records
+269,8107,CO,Routt County,No records
+270,8109,CO,Saguache County,No records
+271,8111,CO,San Juan County,No records
+272,8113,CO,San Miguel County,No records
+273,8115,CO,Sedgwick County,No records
+274,8117,CO,Summit County,No records
+275,8119,CO,Teller County,No records
+276,8121,CO,Washington County,No records
+277,8123,CO,Weld County,No records
+278,8125,CO,Yuma County,No records
+279,9001,CT,Fairfield County,Established
+280,9003,CT,Hartford County,Established
+281,9005,CT,Litchfield County,Established
+282,9007,CT,Middlesex County,Established
+283,9009,CT,New Haven County,Established
+284,9011,CT,New London County,Established
+285,9013,CT,Tolland County,Established
+286,9015,CT,Windham County,Established
+287,10001,DE,Kent County,Established
+288,10003,DE,New Castle County,Established
+289,10005,DE,Sussex County,Established
+290,11001,DC,District of Columbia,Established
+291,12001,FL,Alachua County,Established
+292,12003,FL,Baker County,Established
+293,12005,FL,Bay County,Established
+294,12007,FL,Bradford County,Reported
+295,12009,FL,Brevard County,Established
+296,12011,FL,Broward County,Reported
+297,12013,FL,Calhoun County,Established
+298,12015,FL,Charlotte County,Reported
+299,12017,FL,Citrus County,Reported
+300,12019,FL,Clay County,Established
+301,12021,FL,Collier County,Established
+302,12023,FL,Columbia County,Established
+303,12027,FL,DeSoto County,Established
+304,12029,FL,Dixie County,Established
+305,12031,FL,Duval County,Reported
+306,12033,FL,Escambia County,Established
+307,12035,FL,Flagler County,Established
+308,12037,FL,Franklin County,Established
+309,12039,FL,Gadsden County,Established
+310,12041,FL,Gilchrist County,Reported
+311,12043,FL,Glades County,Established
+312,12045,FL,Gulf County,Established
+313,12047,FL,Hamilton County,Established
+314,12049,FL,Hardee County,Reported
+315,12051,FL,Hendry County,Established
+316,12053,FL,Hernando County,Established
+317,12055,FL,Highlands County,Established
+318,12057,FL,Hillsborough County,Established
+319,12059,FL,Holmes County,Reported
+320,12061,FL,Indian River County,Established
+321,12063,FL,Jackson County,Established
+322,12065,FL,Jefferson County,Established
+323,12067,FL,Lafayette County,Established
+324,12069,FL,Lake County,Established
+325,12071,FL,Lee County,Established
+326,12073,FL,Leon County,Established
+327,12075,FL,Levy County,Established
+328,12077,FL,Liberty County,Established
+329,12079,FL,Madison County,Established
+330,12081,FL,Manatee County,Reported
+331,12083,FL,Marion County,Established
+332,12085,FL,Martin County,Established
+333,12086,FL,Miami-Dade County,Established
+334,12087,FL,Monroe County,Established
+335,12089,FL,Nassau County,Established
+336,12091,FL,Okaloosa County,Established
+337,12093,FL,Okeechobee County,Established
+338,12095,FL,Orange County,Established
+339,12097,FL,Osceola County,Established
+340,12099,FL,Palm Beach County,Established
+341,12101,FL,Pasco County,Reported
+342,12103,FL,Pinellas County,Established
+343,12105,FL,Polk County,Established
+344,12107,FL,Putnam County,Established
+345,12109,FL,St. Johns County,Reported
+346,12111,FL,St. Lucie County,Reported
+347,12113,FL,Santa Rosa County,Established
+348,12115,FL,Sarasota County,Established
+349,12117,FL,Seminole County,Established
+350,12119,FL,Sumter County,Established
+351,12121,FL,Suwannee County,Reported
+352,12123,FL,Taylor County,Established
+353,12125,FL,Union County,Reported
+354,12127,FL,Volusia County,Established
+355,12129,FL,Wakulla County,Established
+356,12131,FL,Walton County,Established
+357,12133,FL,Washington County,Reported
+358,13001,GA,Appling County,Reported
+359,13003,GA,Atkinson County,Reported
+360,13005,GA,Bacon County,Reported
+361,13007,GA,Baker County,Reported
+362,13009,GA,Baldwin County,Reported
+363,13011,GA,Banks County,No records
+364,13013,GA,Barrow County,No records
+365,13015,GA,Bartow County,No records
+366,13017,GA,Ben Hill County,No records
+367,13019,GA,Berrien County,No records
+368,13021,GA,Bibb County,Reported
+369,13023,GA,Bleckley County,Established
+370,13025,GA,Brantley County,Established
+371,13027,GA,Brooks County,Reported
+372,13029,GA,Bryan County,Reported
+373,13031,GA,Bulloch County,Established
+374,13033,GA,Burke County,Established
+375,13035,GA,Butts County,No records
+376,13037,GA,Calhoun County,Reported
+377,13039,GA,Camden County,Reported
+378,13043,GA,Candler County,Established
+379,13045,GA,Carroll County,No records
+380,13047,GA,Catoosa County,No records
+381,13049,GA,Charlton County,Established
+382,13051,GA,Chatham County,Established
+383,13053,GA,Chattahoochee County,Reported
+384,13055,GA,Chattooga County,No records
+385,13057,GA,Cherokee County,No records
+386,13059,GA,Clarke County,Reported
+387,13061,GA,Clay County,No records
+388,13063,GA,Clayton County,No records
+389,13065,GA,Clinch County,Established
+390,13067,GA,Cobb County,No records
+391,13069,GA,Coffee County,Reported
+392,13071,GA,Colquitt County,No records
+393,13073,GA,Columbia County,Reported
+394,13075,GA,Cook County,Reported
+395,13077,GA,Coweta County,No records
+396,13079,GA,Crawford County,No records
+397,13081,GA,Crisp County,Reported
+398,13083,GA,Dade County,No records
+399,13085,GA,Dawson County,No records
+400,13087,GA,Decatur County,Reported
+401,13089,GA,DeKalb County,No records
+402,13091,GA,Dodge County,No records
+403,13093,GA,Dooly County,No records
+404,13095,GA,Dougherty County,Established
+405,13097,GA,Douglas County,No records
+406,13099,GA,Early County,No records
+407,13101,GA,Echols County,Reported
+408,13103,GA,Effingham County,Established
+409,13105,GA,Elbert County,No records
+410,13107,GA,Emanuel County,Established
+411,13109,GA,Evans County,Established
+412,13111,GA,Fannin County,No records
+413,13113,GA,Fayette County,No records
+414,13115,GA,Floyd County,No records
+415,13117,GA,Forsyth County,Reported
+416,13119,GA,Franklin County,No records
+417,13121,GA,Fulton County,No records
+418,13123,GA,Gilmer County,No records
+419,13125,GA,Glascock County,No records
+420,13127,GA,Glynn County,Established
+421,13129,GA,Gordon County,No records
+422,13131,GA,Grady County,Established
+423,13133,GA,Greene County,No records
+424,13135,GA,Gwinnett County,No records
+425,13137,GA,Habersham County,No records
+426,13139,GA,Hall County,No records
+427,13141,GA,Hancock County,Reported
+428,13143,GA,Haralson County,No records
+429,13145,GA,Harris County,No records
+430,13147,GA,Hart County,No records
+431,13149,GA,Heard County,No records
+432,13151,GA,Henry County,No records
+433,13153,GA,Houston County,Established
+434,13155,GA,Irwin County,Established
+435,13157,GA,Jackson County,No records
+436,13159,GA,Jasper County,Established
+437,13161,GA,Jeff Davis County,Reported
+438,13163,GA,Jefferson County,Established
+439,13165,GA,Jenkins County,Established
+440,13167,GA,Johnson County,Established
+441,13169,GA,Jones County,Reported
+442,13171,GA,Lamar County,No records
+443,13173,GA,Lanier County,No records
+444,13175,GA,Laurens County,Established
+445,13177,GA,Lee County,No records
+446,13179,GA,Liberty County,Established
+447,13181,GA,Lincoln County,No records
+448,13183,GA,Long County,Reported
+449,13185,GA,Lowndes County,Established
+450,13187,GA,Lumpkin County,No records
+451,13189,GA,McDuffie County,Established
+452,13191,GA,McIntosh County,Established
+453,13193,GA,Macon County,No records
+454,13195,GA,Madison County,No records
+455,13197,GA,Marion County,No records
+456,13199,GA,Meriwether County,No records
+457,13201,GA,Miller County,No records
+458,13205,GA,Mitchell County,No records
+459,13207,GA,Monroe County,Established
+460,13209,GA,Montgomery County,Established
+461,13211,GA,Morgan County,Reported
+462,13213,GA,Murray County,No records
+463,13215,GA,Muscogee County,Reported
+464,13217,GA,Newton County,No records
+465,13219,GA,Oconee County,No records
+466,13221,GA,Oglethorpe County,No records
+467,13223,GA,Paulding County,No records
+468,13225,GA,Peach County,No records
+469,13227,GA,Pickens County,No records
+470,13229,GA,Pierce County,Reported
+471,13231,GA,Pike County,No records
+472,13233,GA,Polk County,No records
+473,13235,GA,Pulaski County,Reported
+474,13237,GA,Putnam County,Established
+475,13239,GA,Quitman County,No records
+476,13241,GA,Rabun County,No records
+477,13243,GA,Randolph County,No records
+478,13245,GA,Richmond County,No records
+479,13247,GA,Rockdale County,No records
+480,13249,GA,Schley County,No records
+481,13251,GA,Screven County,No records
+482,13253,GA,Seminole County,No records
+483,13255,GA,Spalding County,No records
+484,13257,GA,Stephens County,No records
+485,13259,GA,Stewart County,No records
+486,13261,GA,Sumter County,No records
+487,13263,GA,Talbot County,Established
+488,13265,GA,Taliaferro County,Reported
+489,13267,GA,Tattnall County,Reported
+490,13269,GA,Taylor County,No records
+491,13271,GA,Telfair County,Established
+492,13273,GA,Terrell County,Reported
+493,13275,GA,Thomas County,Established
+494,13277,GA,Tift County,Reported
+495,13279,GA,Toombs County,Established
+496,13281,GA,Towns County,No records
+497,13283,GA,Treutlen County,Established
+498,13285,GA,Troup County,No records
+499,13287,GA,Turner County,No records
+500,13289,GA,Twiggs County,Reported
+501,13291,GA,Union County,No records
+502,13293,GA,Upson County,No records
+503,13295,GA,Walker County,No records
+504,13297,GA,Walton County,No records
+505,13299,GA,Ware County,Established
+506,13301,GA,Warren County,No records
+507,13303,GA,Washington County,Established
+508,13305,GA,Wayne County,Reported
+509,13307,GA,Webster County,No records
+510,13309,GA,Wheeler County,No records
+511,13311,GA,White County,No records
+512,13313,GA,Whitfield County,No records
+513,13315,GA,Wilcox County,No records
+514,13317,GA,Wilkes County,Reported
+515,13319,GA,Wilkinson County,Reported
+516,13321,GA,Worth County,No records
+517,16001,ID,Ada County,No records
+518,16003,ID,Adams County,No records
+519,16005,ID,Bannock County,No records
+520,16007,ID,Bear Lake County,No records
+521,16009,ID,Benewah County,No records
+522,16011,ID,Bingham County,No records
+523,16013,ID,Blaine County,No records
+524,16015,ID,Boise County,No records
+525,16017,ID,Bonner County,No records
+526,16019,ID,Bonneville County,No records
+527,16021,ID,Boundary County,No records
+528,16023,ID,Butte County,No records
+529,16025,ID,Camas County,No records
+530,16027,ID,Canyon County,No records
+531,16029,ID,Caribou County,No records
+532,16031,ID,Cassia County,No records
+533,16033,ID,Clark County,No records
+534,16035,ID,Clearwater County,No records
+535,16037,ID,Custer County,No records
+536,16039,ID,Elmore County,No records
+537,16041,ID,Franklin County,No records
+538,16043,ID,Fremont County,No records
+539,16045,ID,Gem County,No records
+540,16047,ID,Gooding County,No records
+541,16049,ID,Idaho County,No records
+542,16051,ID,Jefferson County,No records
+543,16053,ID,Jerome County,No records
+544,16055,ID,Kootenai County,No records
+545,16057,ID,Latah County,No records
+546,16059,ID,Lemhi County,No records
+547,16061,ID,Lewis County,No records
+548,16063,ID,Lincoln County,No records
+549,16065,ID,Madison County,No records
+550,16067,ID,Minidoka County,No records
+551,16069,ID,Nez Perce County,No records
+552,16071,ID,Oneida County,No records
+553,16073,ID,Owyhee County,No records
+554,16075,ID,Payette County,No records
+555,16077,ID,Power County,No records
+556,16079,ID,Shoshone County,No records
+557,16081,ID,Teton County,No records
+558,16083,ID,Twin Falls County,No records
+559,16085,ID,Valley County,No records
+560,16087,ID,Washington County,No records
+561,17001,IL,Adams County,No records
+562,17003,IL,Alexander County,No records
+563,17005,IL,Bond County,No records
+564,17007,IL,Boone County,Reported
+565,17009,IL,Brown County,Reported
+566,17011,IL,Bureau County,Established
+567,17013,IL,Calhoun County,No records
+568,17015,IL,Carroll County,Established
+569,17017,IL,Cass County,Reported
+570,17019,IL,Champaign County,Established
+571,17021,IL,Christian County,No records
+572,17023,IL,Clark County,Established
+573,17025,IL,Clay County,No records
+574,17027,IL,Clinton County,No records
+575,17029,IL,Coles County,Established
+576,17031,IL,Cook County,Established
+577,17033,IL,Crawford County,Reported
+578,17035,IL,Cumberland County,Reported
+579,17037,IL,DeKalb County,No records
+580,17039,IL,De Witt County,Established
+581,17041,IL,Douglas County,No records
+582,17043,IL,DuPage County,Established
+583,17045,IL,Edgar County,Reported
+584,17047,IL,Edwards County,No records
+585,17049,IL,Effingham County,No records
+586,17051,IL,Fayette County,Reported
+587,17053,IL,Ford County,No records
+588,17055,IL,Franklin County,Reported
+589,17057,IL,Fulton County,Established
+590,17059,IL,Gallatin County,Reported
+591,17061,IL,Greene County,No records
+592,17063,IL,Grundy County,Established
+593,17065,IL,Hamilton County,No records
+594,17067,IL,Hancock County,Established
+595,17069,IL,Hardin County,No records
+596,17071,IL,Henderson County,No records
+597,17073,IL,Henry County,Established
+598,17075,IL,Iroquois County,Reported
+599,17077,IL,Jackson County,Reported
+600,17079,IL,Jasper County,No records
+601,17081,IL,Jefferson County,No records
+602,17083,IL,Jersey County,No records
+603,17085,IL,Jo Daviess County,Established
+604,17087,IL,Johnson County,No records
+605,17089,IL,Kane County,No records
+606,17091,IL,Kankakee County,Established
+607,17093,IL,Kendall County,No records
+608,17095,IL,Knox County,Reported
+609,17097,IL,Lake County,Established
+610,17099,IL,La Salle County,Established
+611,17101,IL,Lawrence County,Reported
+612,17103,IL,Lee County,Established
+613,17105,IL,Livingston County,No records
+614,17107,IL,Logan County,No records
+615,17109,IL,McDonough County,Established
+616,17111,IL,McHenry County,Reported
+617,17113,IL,McLean County,Established
+618,17115,IL,Macon County,No records
+619,17117,IL,Macoupin County,Established
+620,17119,IL,Madison County,Reported
+621,17121,IL,Marion County,No records
+622,17123,IL,Marshall County,Established
+623,17125,IL,Mason County,Established
+624,17127,IL,Massac County,No records
+625,17129,IL,Menard County,Reported
+626,17131,IL,Mercer County,Reported
+627,17133,IL,Monroe County,Established
+628,17135,IL,Montgomery County,Reported
+629,17137,IL,Morgan County,Reported
+630,17139,IL,Moultrie County,No records
+631,17141,IL,Ogle County,Established
+632,17143,IL,Peoria County,Established
+633,17145,IL,Perry County,Reported
+634,17147,IL,Piatt County,Established
+635,17149,IL,Pike County,No records
+636,17151,IL,Pope County,Reported
+637,17153,IL,Pulaski County,No records
+638,17155,IL,Putnam County,Established
+639,17157,IL,Randolph County,Reported
+640,17159,IL,Richland County,No records
+641,17161,IL,Rock Island County,Established
+642,17163,IL,St. Clair County,Reported
+643,17165,IL,Saline County,Reported
+644,17167,IL,Sangamon County,Reported
+645,17169,IL,Schuyler County,Established
+646,17171,IL,Scott County,Reported
+647,17173,IL,Shelby County,Established
+648,17175,IL,Stark County,No records
+649,17177,IL,Stephenson County,Reported
+650,17179,IL,Tazewell County,Established
+651,17181,IL,Union County,Reported
+652,17183,IL,Vermilion County,Established
+653,17185,IL,Wabash County,Established
+654,17187,IL,Warren County,No records
+655,17189,IL,Washington County,No records
+656,17191,IL,Wayne County,No records
+657,17193,IL,White County,No records
+658,17195,IL,Whiteside County,No records
+659,17197,IL,Will County,Established
+660,17199,IL,Williamson County,Reported
+661,17201,IL,Winnebago County,Established
+662,17203,IL,Woodford County,Established
+663,18001,IN,Adams County,Reported
+664,18003,IN,Allen County,No records
+665,18005,IN,Bartholomew County,Established
+666,18007,IN,Benton County,Reported
+667,18009,IN,Blackford County,No records
+668,18011,IN,Boone County,Reported
+669,18013,IN,Brown County,Reported
+670,18015,IN,Carroll County,Reported
+671,18017,IN,Cass County,Established
+672,18019,IN,Clark County,Established
+673,18021,IN,Clay County,Established
+674,18023,IN,Clinton County,Established
+675,18025,IN,Crawford County,Established
+676,18027,IN,Daviess County,Reported
+677,18029,IN,Dearborn County,Reported
+678,18031,IN,Decatur County,Established
+679,18033,IN,De Kalb County,No records
+680,18035,IN,Delaware County,No records
+681,18037,IN,Dubois County,Established
+682,18039,IN,Elkhart County,Established
+683,18041,IN,Fayette County,No records
+684,18043,IN,Floyd County,Reported
+685,18045,IN,Fountain County,Reported
+686,18047,IN,Franklin County,Established
+687,18049,IN,Fulton County,Established
+688,18051,IN,Gibson County,Established
+689,18053,IN,Grant County,Reported
+690,18055,IN,Greene County,Established
+691,18057,IN,Hamilton County,Reported
+692,18059,IN,Hancock County,No records
+693,18061,IN,Harrison County,No records
+694,18063,IN,Hendricks County,Established
+695,18065,IN,Henry County,No records
+696,18067,IN,Howard County,Reported
+697,18069,IN,Huntington County,Reported
+698,18071,IN,Jackson County,Reported
+699,18073,IN,Jasper County,Established
+700,18075,IN,Jay County,No records
+701,18077,IN,Jefferson County,Established
+702,18079,IN,Jennings County,Established
+703,18081,IN,Johnson County,Reported
+704,18083,IN,Knox County,Reported
+705,18085,IN,Kosciusko County,Established
+706,18087,IN,Lagrange County,Reported
+707,18089,IN,Lake County,Established
+708,18091,IN,La Porte County,Established
+709,18093,IN,Lawrence County,Reported
+710,18095,IN,Madison County,Reported
+711,18097,IN,Marion County,Established
+712,18099,IN,Marshall County,Established
+713,18101,IN,Martin County,Established
+714,18103,IN,Miami County,Reported
+715,18105,IN,Monroe County,Established
+716,18107,IN,Montgomery County,Established
+717,18109,IN,Morgan County,Established
+718,18111,IN,Newton County,Established
+719,18113,IN,Noble County,No records
+720,18115,IN,Ohio County,No records
+721,18117,IN,Orange County,Reported
+722,18119,IN,Owen County,Established
+723,18121,IN,Parke County,Established
+724,18123,IN,Perry County,Reported
+725,18125,IN,Pike County,Reported
+726,18127,IN,Porter County,Established
+727,18129,IN,Posey County,Established
+728,18131,IN,Pulaski County,Established
+729,18133,IN,Putnam County,Established
+730,18135,IN,Randolph County,Reported
+731,18137,IN,Ripley County,Established
+732,18139,IN,Rush County,Reported
+733,18141,IN,St. Joseph County,Established
+734,18143,IN,Scott County,No records
+735,18145,IN,Shelby County,Reported
+736,18147,IN,Spencer County,No records
+737,18149,IN,Starke County,Established
+738,18151,IN,Steuben County,Established
+739,18153,IN,Sullivan County,Established
+740,18155,IN,Switzerland County,Reported
+741,18157,IN,Tippecanoe County,Established
+742,18159,IN,Tipton County,No records
+743,18161,IN,Union County,Reported
+744,18163,IN,Vanderburgh County,Established
+745,18165,IN,Vermillion County,Reported
+746,18167,IN,Vigo County,Established
+747,18169,IN,Wabash County,Reported
+748,18171,IN,Warren County,Established
+749,18173,IN,Warrick County,Reported
+750,18175,IN,Washington County,Reported
+751,18177,IN,Wayne County,No records
+752,18179,IN,Wells County,No records
+753,18181,IN,White County,Established
+754,18183,IN,Whitley County,Reported
+755,19001,IA,Adair County,Reported
+756,19003,IA,Adams County,No records
+757,19005,IA,Allamakee County,Established
+758,19007,IA,Appanoose County,No records
+759,19009,IA,Audubon County,No records
+760,19011,IA,Benton County,Established
+761,19013,IA,Black Hawk County,Established
+762,19015,IA,Boone County,Established
+763,19017,IA,Bremer County,Established
+764,19019,IA,Buchanan County,Established
+765,19021,IA,Buena Vista County,Reported
+766,19023,IA,Butler County,Reported
+767,19025,IA,Calhoun County,Reported
+768,19027,IA,Carroll County,Reported
+769,19029,IA,Cass County,No records
+770,19031,IA,Cedar County,Reported
+771,19033,IA,Cerro Gordo County,Established
+772,19035,IA,Cherokee County,Reported
+773,19037,IA,Chickasaw County,No records
+774,19039,IA,Clarke County,Reported
+775,19041,IA,Clay County,No records
+776,19043,IA,Clayton County,Established
+777,19045,IA,Clinton County,Reported
+778,19047,IA,Crawford County,Reported
+779,19049,IA,Dallas County,Established
+780,19051,IA,Davis County,Reported
+781,19053,IA,Decatur County,Reported
+782,19055,IA,Delaware County,Established
+783,19057,IA,Des Moines County,Established
+784,19059,IA,Dickinson County,No records
+785,19061,IA,Dubuque County,Established
+786,19063,IA,Emmet County,No records
+787,19065,IA,Fayette County,Established
+788,19067,IA,Floyd County,Reported
+789,19069,IA,Franklin County,No records
+790,19071,IA,Fremont County,No records
+791,19073,IA,Greene County,Reported
+792,19075,IA,Grundy County,No records
+793,19077,IA,Guthrie County,Reported
+794,19079,IA,Hamilton County,Established
+795,19081,IA,Hancock County,Reported
+796,19083,IA,Hardin County,Reported
+797,19085,IA,Harrison County,Reported
+798,19087,IA,Henry County,Reported
+799,19089,IA,Howard County,Reported
+800,19091,IA,Humboldt County,No records
+801,19093,IA,Ida County,No records
+802,19095,IA,Iowa County,Established
+803,19097,IA,Jackson County,Established
+804,19099,IA,Jasper County,Reported
+805,19101,IA,Jefferson County,Established
+806,19103,IA,Johnson County,Established
+807,19105,IA,Jones County,Reported
+808,19107,IA,Keokuk County,Established
+809,19109,IA,Kossuth County,Reported
+810,19111,IA,Lee County,Reported
+811,19113,IA,Linn County,Established
+812,19115,IA,Louisa County,Established
+813,19117,IA,Lucas County,Reported
+814,19119,IA,Lyon County,No records
+815,19121,IA,Madison County,No records
+816,19123,IA,Mahaska County,Established
+817,19125,IA,Marion County,Reported
+818,19127,IA,Marshall County,Established
+819,19129,IA,Mills County,Reported
+820,19131,IA,Mitchell County,Established
+821,19133,IA,Monona County,Reported
+822,19135,IA,Monroe County,Reported
+823,19137,IA,Montgomery County,No records
+824,19139,IA,Muscatine County,Established
+825,19141,IA,O'Brien County,Reported
+826,19143,IA,Osceola County,No records
+827,19145,IA,Page County,Reported
+828,19147,IA,Palo Alto County,Reported
+829,19149,IA,Plymouth County,No records
+830,19151,IA,Pocahontas County,Reported
+831,19153,IA,Polk County,Established
+832,19155,IA,Pottawattamie County,No records
+833,19157,IA,Poweshiek County,Reported
+834,19159,IA,Ringgold County,No records
+835,19161,IA,Sac County,No records
+836,19163,IA,Scott County,Established
+837,19165,IA,Shelby County,No records
+838,19167,IA,Sioux County,No records
+839,19169,IA,Story County,Established
+840,19171,IA,Tama County,Established
+841,19173,IA,Taylor County,Reported
+842,19175,IA,Union County,Reported
+843,19177,IA,Van Buren County,Reported
+844,19179,IA,Wapello County,Established
+845,19181,IA,Warren County,Reported
+846,19183,IA,Washington County,Established
+847,19185,IA,Wayne County,No records
+848,19187,IA,Webster County,Established
+849,19189,IA,Winnebago County,Reported
+850,19191,IA,Winneshiek County,Established
+851,19193,IA,Woodbury County,Reported
+852,19195,IA,Worth County,No records
+853,19197,IA,Wright County,Reported
+854,20001,KS,Allen County,Reported
+855,20003,KS,Anderson County,Reported
+856,20005,KS,Atchison County,No records
+857,20007,KS,Barber County,No records
+858,20009,KS,Barton County,No records
+859,20011,KS,Bourbon County,Reported
+860,20013,KS,Brown County,No records
+861,20015,KS,Butler County,Reported
+862,20017,KS,Chase County,No records
+863,20019,KS,Chautauqua County,Reported
+864,20021,KS,Cherokee County,Reported
+865,20023,KS,Cheyenne County,No records
+866,20025,KS,Clark County,No records
+867,20027,KS,Clay County,No records
+868,20029,KS,Cloud County,No records
+869,20031,KS,Coffey County,Reported
+870,20033,KS,Comanche County,No records
+871,20035,KS,Cowley County,Reported
+872,20037,KS,Crawford County,Reported
+873,20039,KS,Decatur County,No records
+874,20041,KS,Dickinson County,No records
+875,20043,KS,Doniphan County,No records
+876,20045,KS,Douglas County,Established
+877,20047,KS,Edwards County,No records
+878,20049,KS,Elk County,No records
+879,20051,KS,Ellis County,No records
+880,20053,KS,Ellsworth County,No records
+881,20055,KS,Finney County,No records
+882,20057,KS,Ford County,No records
+883,20059,KS,Franklin County,No records
+884,20061,KS,Geary County,No records
+885,20063,KS,Gove County,No records
+886,20065,KS,Graham County,No records
+887,20067,KS,Grant County,No records
+888,20069,KS,Gray County,No records
+889,20071,KS,Greeley County,No records
+890,20073,KS,Greenwood County,Reported
+891,20075,KS,Hamilton County,No records
+892,20077,KS,Harper County,No records
+893,20079,KS,Harvey County,No records
+894,20081,KS,Haskell County,No records
+895,20083,KS,Hodgeman County,No records
+896,20085,KS,Jackson County,No records
+897,20087,KS,Jefferson County,Reported
+898,20089,KS,Jewell County,No records
+899,20091,KS,Johnson County,Reported
+900,20093,KS,Kearny County,No records
+901,20095,KS,Kingman County,No records
+902,20097,KS,Kiowa County,No records
+903,20099,KS,Labette County,Reported
+904,20101,KS,Lane County,No records
+905,20103,KS,Leavenworth County,No records
+906,20105,KS,Lincoln County,No records
+907,20107,KS,Linn County,Reported
+908,20109,KS,Logan County,No records
+909,20111,KS,Lyon County,No records
+910,20113,KS,McPherson County,No records
+911,20115,KS,Marion County,No records
+912,20117,KS,Marshall County,No records
+913,20119,KS,Meade County,No records
+914,20121,KS,Miami County,Reported
+915,20123,KS,Mitchell County,No records
+916,20125,KS,Montgomery County,Reported
+917,20127,KS,Morris County,No records
+918,20129,KS,Morton County,No records
+919,20131,KS,Nemaha County,No records
+920,20133,KS,Neosho County,Reported
+921,20135,KS,Ness County,No records
+922,20137,KS,Norton County,No records
+923,20139,KS,Osage County,No records
+924,20141,KS,Osborne County,No records
+925,20143,KS,Ottawa County,No records
+926,20145,KS,Pawnee County,No records
+927,20147,KS,Phillips County,No records
+928,20149,KS,Pottawatomie County,Reported
+929,20151,KS,Pratt County,No records
+930,20153,KS,Rawlins County,No records
+931,20155,KS,Reno County,No records
+932,20157,KS,Republic County,No records
+933,20159,KS,Rice County,No records
+934,20161,KS,Riley County,Reported
+935,20163,KS,Rooks County,No records
+936,20165,KS,Rush County,No records
+937,20167,KS,Russell County,No records
+938,20169,KS,Saline County,No records
+939,20171,KS,Scott County,No records
+940,20173,KS,Sedgwick County,Reported
+941,20175,KS,Seward County,No records
+942,20177,KS,Shawnee County,Reported
+943,20179,KS,Sheridan County,No records
+944,20181,KS,Sherman County,No records
+945,20183,KS,Smith County,No records
+946,20185,KS,Stafford County,No records
+947,20187,KS,Stanton County,No records
+948,20189,KS,Stevens County,No records
+949,20191,KS,Sumner County,No records
+950,20193,KS,Thomas County,No records
+951,20195,KS,Trego County,No records
+952,20197,KS,Wabaunsee County,No records
+953,20199,KS,Wallace County,No records
+954,20201,KS,Washington County,No records
+955,20203,KS,Wichita County,No records
+956,20205,KS,Wilson County,No records
+957,20207,KS,Woodson County,Reported
+958,20209,KS,Wyandotte County,No records
+959,21001,KY,Adair County,No records
+960,21003,KY,Allen County,No records
+961,21005,KY,Anderson County,No records
+962,21007,KY,Ballard County,Established
+963,21009,KY,Barren County,No records
+964,21011,KY,Bath County,Reported
+965,21013,KY,Bell County,Established
+966,21015,KY,Boone County,Established
+967,21017,KY,Bourbon County,No records
+968,21019,KY,Boyd County,Established
+969,21021,KY,Boyle County,No records
+970,21023,KY,Bracken County,No records
+971,21025,KY,Breathitt County,No records
+972,21027,KY,Breckinridge County,No records
+973,21029,KY,Bullitt County,Established
+974,21031,KY,Butler County,Reported
+975,21033,KY,Caldwell County,No records
+976,21035,KY,Calloway County,No records
+977,21037,KY,Campbell County,No records
+978,21039,KY,Carlisle County,No records
+979,21041,KY,Carroll County,Established
+980,21043,KY,Carter County,No records
+981,21045,KY,Casey County,Established
+982,21047,KY,Christian County,Reported
+983,21049,KY,Clark County,Reported
+984,21051,KY,Clay County,Established
+985,21053,KY,Clinton County,No records
+986,21055,KY,Crittenden County,Reported
+987,21057,KY,Cumberland County,Reported
+988,21059,KY,Daviess County,Reported
+989,21061,KY,Edmonson County,No records
+990,21063,KY,Elliott County,No records
+991,21065,KY,Estill County,Established
+992,21067,KY,Fayette County,Established
+993,21069,KY,Fleming County,No records
+994,21071,KY,Floyd County,No records
+995,21073,KY,Franklin County,No records
+996,21075,KY,Fulton County,No records
+997,21077,KY,Gallatin County,No records
+998,21079,KY,Garrard County,No records
+999,21081,KY,Grant County,No records
+1000,21083,KY,Graves County,No records
+1001,21085,KY,Grayson County,No records
+1002,21087,KY,Green County,No records
+1003,21089,KY,Greenup County,Established
+1004,21091,KY,Hancock County,Reported
+1005,21093,KY,Hardin County,Established
+1006,21095,KY,Harlan County,Reported
+1007,21097,KY,Harrison County,Reported
+1008,21099,KY,Hart County,Reported
+1009,21101,KY,Henderson County,No records
+1010,21103,KY,Henry County,Established
+1011,21105,KY,Hickman County,No records
+1012,21107,KY,Hopkins County,Established
+1013,21109,KY,Jackson County,Established
+1014,21111,KY,Jefferson County,Reported
+1015,21113,KY,Jessamine County,No records
+1016,21115,KY,Johnson County,No records
+1017,21117,KY,Kenton County,No records
+1018,21119,KY,Knott County,No records
+1019,21121,KY,Knox County,Established
+1020,21123,KY,Larue County,No records
+1021,21125,KY,Laurel County,No records
+1022,21127,KY,Lawrence County,No records
+1023,21129,KY,Lee County,Established
+1024,21131,KY,Leslie County,No records
+1025,21133,KY,Letcher County,No records
+1026,21135,KY,Lewis County,Established
+1027,21137,KY,Lincoln County,No records
+1028,21139,KY,Livingston County,No records
+1029,21141,KY,Logan County,No records
+1030,21143,KY,Lyon County,Established
+1031,21145,KY,McCracken County,No records
+1032,21147,KY,McCreary County,Established
+1033,21149,KY,McLean County,No records
+1034,21151,KY,Madison County,Established
+1035,21153,KY,Magoffin County,No records
+1036,21155,KY,Marion County,Reported
+1037,21157,KY,Marshall County,No records
+1038,21159,KY,Martin County,No records
+1039,21161,KY,Mason County,No records
+1040,21163,KY,Meade County,Established
+1041,21165,KY,Menifee County,No records
+1042,21167,KY,Mercer County,No records
+1043,21169,KY,Metcalfe County,No records
+1044,21171,KY,Monroe County,No records
+1045,21173,KY,Montgomery County,Reported
+1046,21175,KY,Morgan County,Reported
+1047,21177,KY,Muhlenberg County,Established
+1048,21179,KY,Nelson County,No records
+1049,21181,KY,Nicholas County,Established
+1050,21183,KY,Ohio County,Established
+1051,21185,KY,Oldham County,No records
+1052,21187,KY,Owen County,Established
+1053,21189,KY,Owsley County,Established
+1054,21191,KY,Pendleton County,No records
+1055,21193,KY,Perry County,No records
+1056,21195,KY,Pike County,No records
+1057,21197,KY,Powell County,No records
+1058,21199,KY,Pulaski County,Established
+1059,21201,KY,Robertson County,Reported
+1060,21203,KY,Rockcastle County,No records
+1061,21205,KY,Rowan County,No records
+1062,21207,KY,Russell County,Established
+1063,21209,KY,Scott County,Established
+1064,21211,KY,Shelby County,No records
+1065,21213,KY,Simpson County,No records
+1066,21215,KY,Spencer County,No records
+1067,21217,KY,Taylor County,Reported
+1068,21219,KY,Todd County,Reported
+1069,21221,KY,Trigg County,No records
+1070,21223,KY,Trimble County,Established
+1071,21225,KY,Union County,No records
+1072,21227,KY,Warren County,Reported
+1073,21229,KY,Washington County,No records
+1074,21231,KY,Wayne County,No records
+1075,21233,KY,Webster County,Established
+1076,21235,KY,Whitley County,Reported
+1077,21237,KY,Wolfe County,No records
+1078,21239,KY,Woodford County,Established
+1079,22001,LA,Acadia Parish,No records
+1080,22003,LA,Allen Parish,Established
+1081,22005,LA,Ascension Parish,No records
+1082,22007,LA,Assumption Parish,No records
+1083,22009,LA,Avoyelles Parish,Established
+1084,22011,LA,Beauregard Parish,No records
+1085,22013,LA,Bienville Parish,Established
+1086,22015,LA,Bossier Parish,Reported
+1087,22017,LA,Caddo Parish,No records
+1088,22019,LA,Calcasieu Parish,No records
+1089,22021,LA,Caldwell Parish,Established
+1090,22023,LA,Cameron Parish,No records
+1091,22025,LA,Catahoula Parish,Reported
+1092,22027,LA,Claiborne Parish,Reported
+1093,22029,LA,Concordia Parish,Established
+1094,22031,LA,De Soto Parish,Reported
+1095,22033,LA,East Baton Rouge Parish,Reported
+1096,22035,LA,East Carroll Parish,Reported
+1097,22037,LA,East Feliciana Parish,No records
+1098,22039,LA,Evangeline Parish,No records
+1099,22041,LA,Franklin Parish,No records
+1100,22043,LA,Grant Parish,Established
+1101,22045,LA,Iberia Parish,No records
+1102,22047,LA,Iberville Parish,No records
+1103,22049,LA,Jackson Parish,Established
+1104,22051,LA,Jefferson Parish,No records
+1105,22053,LA,Jefferson Davis Parish,Reported
+1106,22055,LA,Lafayette Parish,Reported
+1107,22057,LA,Lafourche Parish,No records
+1108,22059,LA,La Salle Parish,No records
+1109,22061,LA,Lincoln Parish,Established
+1110,22063,LA,Livingston Parish,No records
+1111,22065,LA,Madison Parish,Reported
+1112,22067,LA,Morehouse Parish,Established
+1113,22069,LA,Natchitoches Parish,Established
+1114,22071,LA,Orleans Parish,No records
+1115,22073,LA,Ouachita Parish,Reported
+1116,22075,LA,Plaquemines Parish,No records
+1117,22077,LA,Pointe Coupee Parish,Reported
+1118,22079,LA,Rapides Parish,Reported
+1119,22081,LA,Red River Parish,No records
+1120,22083,LA,Richland Parish,No records
+1121,22085,LA,Sabine Parish,Reported
+1122,22087,LA,St. Bernard Parish,No records
+1123,22089,LA,St. Charles Parish,No records
+1124,22091,LA,St. Helena Parish,No records
+1125,22093,LA,St. James Parish,No records
+1126,22095,LA,St. John the Baptist,Reported
+1127,22097,LA,St. Landry Parish,Reported
+1128,22099,LA,St. Martin Parish,Reported
+1129,22101,LA,St. Mary Parish,Reported
+1130,22103,LA,St. Tammany Parish,Reported
+1131,22105,LA,Tangipahoa Parish,Reported
+1132,22107,LA,Tensas Parish,Reported
+1133,22109,LA,Terrebonne Parish,No records
+1134,22111,LA,Union Parish,Established
+1135,22113,LA,Vermilion Parish,Reported
+1136,22115,LA,Vernon Parish,Established
+1137,22117,LA,Washington Parish,Reported
+1138,22119,LA,Webster Parish,No records
+1139,22121,LA,West Baton Rouge Parish,No records
+1140,22123,LA,West Carroll Parish,No records
+1141,22125,LA,West Feliciana Parish,No records
+1142,22127,LA,Winn Parish,Reported
+1143,23001,ME,Androscoggin County,Established
+1144,23003,ME,Aroostook County,Established
+1145,23005,ME,Cumberland County,Established
+1146,23007,ME,Franklin County,Established
+1147,23009,ME,Hancock County,Established
+1148,23011,ME,Kennebec County,Established
+1149,23013,ME,Knox County,Established
+1150,23015,ME,Lincoln County,Established
+1151,23017,ME,Oxford County,Established
+1152,23019,ME,Penobscot County,Established
+1153,23021,ME,Piscataquis County,Established
+1154,23023,ME,Sagadahoc County,Established
+1155,23025,ME,Somerset County,Established
+1156,23027,ME,Waldo County,Established
+1157,23029,ME,Washington County,Established
+1158,23031,ME,York County,Established
+1159,24001,MD,Allegany County,Reported
+1160,24003,MD,Anne Arundel County,Established
+1161,24005,MD,Baltimore County,Established
+1162,24009,MD,Calvert County,Established
+1163,24011,MD,Caroline County,Established
+1164,24013,MD,Carroll County,Established
+1165,24015,MD,Cecil County,Established
+1166,24017,MD,Charles County,Established
+1167,24019,MD,Dorchester County,Established
+1168,24021,MD,Frederick County,Established
+1169,24023,MD,Garrett County,Reported
+1170,24025,MD,Harford County,Established
+1171,24027,MD,Howard County,Established
+1172,24029,MD,Kent County,Established
+1173,24031,MD,Montgomery County,Established
+1174,24033,MD,Prince George's County,Established
+1175,24035,MD,Queen Anne's County,Established
+1176,24037,MD,St. Mary's County,Established
+1177,24039,MD,Somerset County,Established
+1178,24041,MD,Talbot County,Established
+1179,24043,MD,Washington County,Established
+1180,24045,MD,Wicomico County,Established
+1181,24047,MD,Worcester County,Established
+1182,24510,MD,Baltimore City,
+1183,25001,MA,Barnstable County,Established
+1184,25003,MA,Berkshire County,Established
+1185,25005,MA,Bristol County,Established
+1186,25007,MA,Dukes County,Established
+1187,25009,MA,Essex County,Established
+1188,25011,MA,Franklin County,Established
+1189,25013,MA,Hampden County,Established
+1190,25015,MA,Hampshire County,Established
+1191,25017,MA,Middlesex County,Established
+1192,25019,MA,Nantucket County,Established
+1193,25021,MA,Norfolk County,Established
+1194,25023,MA,Plymouth County,Established
+1195,25025,MA,Suffolk County,Established
+1196,25027,MA,Worcester County,Established
+1197,26001,MI,Alcona County,Established
+1198,26003,MI,Alger County,Reported
+1199,26005,MI,Allegan County,Established
+1200,26007,MI,Alpena County,Established
+1201,26009,MI,Antrim County,No records
+1202,26011,MI,Arenac County,No records
+1203,26013,MI,Baraga County,Established
+1204,26015,MI,Barry County,Established
+1205,26017,MI,Bay County,Established
+1206,26019,MI,Benzie County,Established
+1207,26021,MI,Berrien County,Established
+1208,26023,MI,Branch County,No records
+1209,26025,MI,Calhoun County,Established
+1210,26027,MI,Cass County,Established
+1211,26029,MI,Charlevoix County,Established
+1212,26031,MI,Cheboygan County,Established
+1213,26033,MI,Chippewa County,Established
+1214,26035,MI,Clare County,No records
+1215,26037,MI,Clinton County,Established
+1216,26039,MI,Crawford County,No records
+1217,26041,MI,Delta County,Established
+1218,26043,MI,Dickinson County,Established
+1219,26045,MI,Eaton County,Established
+1220,26047,MI,Emmet County,Established
+1221,26049,MI,Genesee County,Reported
+1222,26051,MI,Gladwin County,Established
+1223,26053,MI,Gogebic County,Established
+1224,26055,MI,Grand Traverse County,Established
+1225,26057,MI,Gratiot County,No records
+1226,26059,MI,Hillsdale County,Established
+1227,26061,MI,Houghton County,Established
+1228,26063,MI,Huron County,Established
+1229,26065,MI,Ingham County,Established
+1230,26067,MI,Ionia County,Established
+1231,26069,MI,Iosco County,Established
+1232,26071,MI,Iron County,Established
+1233,26073,MI,Isabella County,Reported
+1234,26075,MI,Jackson County,Established
+1235,26077,MI,Kalamazoo County,Established
+1236,26079,MI,Kalkaska County,No records
+1237,26081,MI,Kent County,Reported
+1238,26083,MI,Keweenaw County,Established
+1239,26085,MI,Lake County,No records
+1240,26087,MI,Lapeer County,Reported
+1241,26089,MI,Leelanau County,Established
+1242,26091,MI,Lenawee County,Established
+1243,26093,MI,Livingston County,Established
+1244,26095,MI,Luce County,No records
+1245,26097,MI,Mackinac County,Reported
+1246,26099,MI,Macomb County,Established
+1247,26101,MI,Manistee County,Established
+1248,26103,MI,Marquette County,Established
+1249,26105,MI,Mason County,Established
+1250,26107,MI,Mecosta County,No records
+1251,26109,MI,Menominee County,Established
+1252,26111,MI,Midland County,Reported
+1253,26113,MI,Missaukee County,No records
+1254,26115,MI,Monroe County,No records
+1255,26117,MI,Montcalm County,Established
+1256,26119,MI,Montmorency County,Reported
+1257,26121,MI,Muskegon County,Established
+1258,26123,MI,Newaygo County,No records
+1259,26125,MI,Oakland County,Established
+1260,26127,MI,Oceana County,Established
+1261,26129,MI,Ogemaw County,Reported
+1262,26131,MI,Ontonagon County,Established
+1263,26133,MI,Osceola County,No records
+1264,26135,MI,Oscoda County,No records
+1265,26137,MI,Otsego County,No records
+1266,26139,MI,Ottawa County,Established
+1267,26141,MI,Presque Isle County,Established
+1268,26143,MI,Roscommon County,No records
+1269,26145,MI,Saginaw County,Reported
+1270,26147,MI,St. Clair County,Established
+1271,26149,MI,St. Joseph County,Established
+1272,26151,MI,Sanilac County,No records
+1273,26153,MI,Schoolcraft County,Established
+1274,26155,MI,Shiawassee County,No records
+1275,26157,MI,Tuscola County,Established
+1276,26159,MI,Van Buren County,Established
+1277,26161,MI,Washtenaw County,Established
+1278,26163,MI,Wayne County,Established
+1279,26165,MI,Wexford County,No records
+1280,27001,MN,Aitkin County,Established
+1281,27003,MN,Anoka County,Established
+1282,27005,MN,Becker County,Established
+1283,27007,MN,Beltrami County,Established
+1284,27009,MN,Benton County,Established
+1285,27011,MN,Big Stone County,No records
+1286,27013,MN,Blue Earth County,No records
+1287,27015,MN,Brown County,Reported
+1288,27017,MN,Carlton County,Established
+1289,27019,MN,Carver County,Established
+1290,27021,MN,Cass County,Established
+1291,27023,MN,Chippewa County,No records
+1292,27025,MN,Chisago County,Established
+1293,27027,MN,Clay County,No records
+1294,27029,MN,Clearwater County,Established
+1295,27031,MN,Cook County,Established
+1296,27033,MN,Cottonwood County,No records
+1297,27035,MN,Crow Wing County,Established
+1298,27037,MN,Dakota County,Established
+1299,27039,MN,Dodge County,No records
+1300,27041,MN,Douglas County,Established
+1301,27043,MN,Faribault County,No records
+1302,27045,MN,Fillmore County,Established
+1303,27047,MN,Freeborn County,No records
+1304,27049,MN,Goodhue County,Established
+1305,27051,MN,Grant County,No records
+1306,27053,MN,Hennepin County,Established
+1307,27055,MN,Houston County,Established
+1308,27057,MN,Hubbard County,Established
+1309,27059,MN,Isanti County,Established
+1310,27061,MN,Itasca County,Established
+1311,27063,MN,Jackson County,No records
+1312,27065,MN,Kanabec County,Established
+1313,27067,MN,Kandiyohi County,Established
+1314,27069,MN,Kittson County,Established
+1315,27071,MN,Koochiching County,Established
+1316,27073,MN,Lac qui Parle County,No records
+1317,27075,MN,Lake County,Established
+1318,27077,MN,Lake of the Woods County,Established
+1319,27079,MN,Le Sueur County,No records
+1320,27081,MN,Lincoln County,No records
+1321,27083,MN,Lyon County,No records
+1322,27085,MN,McLeod County,No records
+1323,27087,MN,Mahnomen County,Established
+1324,27089,MN,Marshall County,Established
+1325,27091,MN,Martin County,No records
+1326,27093,MN,Meeker County,No records
+1327,27095,MN,Mille Lacs County,Established
+1328,27097,MN,Morrison County,Established
+1329,27099,MN,Mower County,No records
+1330,27101,MN,Murray County,No records
+1331,27103,MN,Nicollet County,Reported
+1332,27105,MN,Nobles County,No records
+1333,27107,MN,Norman County,No records
+1334,27109,MN,Olmsted County,Established
+1335,27111,MN,Otter Tail County,Established
+1336,27113,MN,Pennington County,Established
+1337,27115,MN,Pine County,Established
+1338,27117,MN,Pipestone County,No records
+1339,27119,MN,Polk County,Established
+1340,27121,MN,Pope County,Established
+1341,27123,MN,Ramsey County,Established
+1342,27125,MN,Red Lake County,Established
+1343,27127,MN,Redwood County,No records
+1344,27129,MN,Renville County,No records
+1345,27131,MN,Rice County,Reported
+1346,27133,MN,Rock County,No records
+1347,27135,MN,Roseau County,Established
+1348,27137,MN,St. Louis County,Established
+1349,27139,MN,Scott County,Established
+1350,27141,MN,Sherburne County,Established
+1351,27143,MN,Sibley County,Established
+1352,27145,MN,Stearns County,Established
+1353,27147,MN,Steele County,No records
+1354,27149,MN,Stevens County,No records
+1355,27151,MN,Swift County,No records
+1356,27153,MN,Todd County,Established
+1357,27155,MN,Traverse County,No records
+1358,27157,MN,Wabasha County,Established
+1359,27159,MN,Wadena County,Established
+1360,27161,MN,Waseca County,No records
+1361,27163,MN,Washington County,Established
+1362,27165,MN,Watonwan County,No records
+1363,27167,MN,Wilkin County,No records
+1364,27169,MN,Winona County,Established
+1365,27171,MN,Wright County,Established
+1366,27173,MN,Yellow Medicine County,No records
+1367,28001,MS,Adams County,Reported
+1368,28003,MS,Alcorn County,Reported
+1369,28005,MS,Amite County,Reported
+1370,28007,MS,Attala County,Reported
+1371,28009,MS,Benton County,Reported
+1372,28011,MS,Bolivar County,Established
+1373,28013,MS,Calhoun County,Reported
+1374,28015,MS,Carroll County,Reported
+1375,28017,MS,Chickasaw County,Reported
+1376,28019,MS,Choctaw County,Reported
+1377,28021,MS,Claiborne County,Reported
+1378,28023,MS,Clarke County,Reported
+1379,28025,MS,Clay County,Reported
+1380,28027,MS,Coahoma County,Reported
+1381,28029,MS,Copiah County,Established
+1382,28031,MS,Covington County,Reported
+1383,28033,MS,DeSoto County,Reported
+1384,28035,MS,Forrest County,Reported
+1385,28037,MS,Franklin County,Reported
+1386,28039,MS,George County,Reported
+1387,28041,MS,Greene County,Reported
+1388,28043,MS,Grenada County,Reported
+1389,28045,MS,Hancock County,Reported
+1390,28047,MS,Harrison County,Reported
+1391,28049,MS,Hinds County,Established
+1392,28051,MS,Holmes County,Reported
+1393,28053,MS,Humphreys County,Reported
+1394,28055,MS,Issaquena County,Reported
+1395,28057,MS,Itawamba County,Reported
+1396,28059,MS,Jackson County,Established
+1397,28061,MS,Jasper County,Reported
+1398,28063,MS,Jefferson County,Reported
+1399,28065,MS,Jefferson Davis County,Reported
+1400,28067,MS,Jones County,Reported
+1401,28069,MS,Kemper County,Reported
+1402,28071,MS,Lafayette County,Reported
+1403,28073,MS,Lamar County,Reported
+1404,28075,MS,Lauderdale County,Reported
+1405,28077,MS,Lawrence County,Reported
+1406,28079,MS,Leake County,Reported
+1407,28081,MS,Lee County,Reported
+1408,28083,MS,Leflore County,Reported
+1409,28085,MS,Lincoln County,Reported
+1410,28087,MS,Lowndes County,Reported
+1411,28089,MS,Madison County,Reported
+1412,28091,MS,Marion County,Reported
+1413,28093,MS,Marshall County,Established
+1414,28095,MS,Monroe County,Reported
+1415,28097,MS,Montgomery County,Reported
+1416,28099,MS,Neshoba County,Reported
+1417,28101,MS,Newton County,Reported
+1418,28103,MS,Noxubee County,Established
+1419,28105,MS,Oktibbeha County,Established
+1420,28107,MS,Panola County,Reported
+1421,28109,MS,Pearl River County,Reported
+1422,28111,MS,Perry County,Established
+1423,28113,MS,Pike County,Reported
+1424,28115,MS,Pontotoc County,Reported
+1425,28117,MS,Prentiss County,Reported
+1426,28119,MS,Quitman County,Reported
+1427,28121,MS,Rankin County,Established
+1428,28123,MS,Scott County,Established
+1429,28125,MS,Sharkey County,Reported
+1430,28127,MS,Simpson County,Reported
+1431,28129,MS,Smith County,Reported
+1432,28131,MS,Stone County,Reported
+1433,28133,MS,Sunflower County,Reported
+1434,28135,MS,Tallahatchie County,Reported
+1435,28137,MS,Tate County,Reported
+1436,28139,MS,Tippah County,Reported
+1437,28141,MS,Tishomingo County,Reported
+1438,28143,MS,Tunica County,Reported
+1439,28145,MS,Union County,Reported
+1440,28147,MS,Walthall County,Reported
+1441,28149,MS,Warren County,Reported
+1442,28151,MS,Washington County,Reported
+1443,28153,MS,Wayne County,Reported
+1444,28155,MS,Webster County,Reported
+1445,28157,MS,Wilkinson County,Reported
+1446,28159,MS,Winston County,Established
+1447,28161,MS,Yalobusha County,Reported
+1448,28163,MS,Yazoo County,Reported
+1449,29001,MO,Adair County,Established
+1450,29003,MO,Andrew County,No records
+1451,29005,MO,Atchison County,No records
+1452,29007,MO,Audrain County,No records
+1453,29009,MO,Barry County,No records
+1454,29011,MO,Barton County,No records
+1455,29013,MO,Bates County,No records
+1456,29015,MO,Benton County,Established
+1457,29017,MO,Bollinger County,Established
+1458,29019,MO,Boone County,Reported
+1459,29021,MO,Buchanan County,No records
+1460,29023,MO,Butler County,No records
+1461,29025,MO,Caldwell County,No records
+1462,29027,MO,Callaway County,Established
+1463,29029,MO,Camden County,No records
+1464,29031,MO,Cape Girardeau County,Established
+1465,29033,MO,Carroll County,No records
+1466,29035,MO,Carter County,No records
+1467,29037,MO,Cass County,No records
+1468,29039,MO,Cedar County,No records
+1469,29041,MO,Chariton County,No records
+1470,29043,MO,Christian County,No records
+1471,29045,MO,Clark County,Reported
+1472,29047,MO,Clay County,No records
+1473,29049,MO,Clinton County,No records
+1474,29051,MO,Cole County,No records
+1475,29053,MO,Cooper County,No records
+1476,29055,MO,Crawford County,No records
+1477,29057,MO,Dade County,No records
+1478,29059,MO,Dallas County,Established
+1479,29061,MO,Daviess County,No records
+1480,29063,MO,DeKalb County,No records
+1481,29065,MO,Dent County,Established
+1482,29067,MO,Douglas County,Established
+1483,29069,MO,Dunklin County,No records
+1484,29071,MO,Franklin County,No records
+1485,29073,MO,Gasconade County,Established
+1486,29075,MO,Gentry County,No records
+1487,29077,MO,Greene County,Established
+1488,29079,MO,Grundy County,No records
+1489,29081,MO,Harrison County,No records
+1490,29083,MO,Henry County,No records
+1491,29085,MO,Hickory County,No records
+1492,29087,MO,Holt County,No records
+1493,29089,MO,Howard County,No records
+1494,29091,MO,Howell County,Established
+1495,29093,MO,Iron County,No records
+1496,29095,MO,Jackson County,No records
+1497,29097,MO,Jasper County,Established
+1498,29099,MO,Jefferson County,No records
+1499,29101,MO,Johnson County,Established
+1500,29103,MO,Knox County,No records
+1501,29105,MO,Laclede County,Established
+1502,29107,MO,Lafayette County,No records
+1503,29109,MO,Lawrence County,No records
+1504,29111,MO,Lewis County,No records
+1505,29113,MO,Lincoln County,No records
+1506,29115,MO,Linn County,No records
+1507,29117,MO,Livingston County,No records
+1508,29119,MO,McDonald County,No records
+1509,29121,MO,Macon County,No records
+1510,29123,MO,Madison County,No records
+1511,29125,MO,Maries County,No records
+1512,29127,MO,Marion County,No records
+1513,29129,MO,Mercer County,No records
+1514,29131,MO,Miller County,No records
+1515,29133,MO,Mississippi County,No records
+1516,29135,MO,Moniteau County,No records
+1517,29137,MO,Monroe County,No records
+1518,29139,MO,Montgomery County,Reported
+1519,29141,MO,Morgan County,No records
+1520,29143,MO,New Madrid County,Reported
+1521,29145,MO,Newton County,Reported
+1522,29147,MO,Nodaway County,No records
+1523,29149,MO,Oregon County,No records
+1524,29151,MO,Osage County,Established
+1525,29153,MO,Ozark County,No records
+1526,29155,MO,Pemiscot County,No records
+1527,29157,MO,Perry County,No records
+1528,29159,MO,Pettis County,No records
+1529,29161,MO,Phelps County,No records
+1530,29163,MO,Pike County,No records
+1531,29165,MO,Platte County,No records
+1532,29167,MO,Polk County,No records
+1533,29169,MO,Pulaski County,Established
+1534,29171,MO,Putnam County,No records
+1535,29173,MO,Ralls County,No records
+1536,29175,MO,Randolph County,No records
+1537,29177,MO,Ray County,No records
+1538,29179,MO,Reynolds County,No records
+1539,29181,MO,Ripley County,No records
+1540,29183,MO,St. Charles County,Established
+1541,29185,MO,St. Clair County,Reported
+1542,29186,MO,Ste. Genevieve County,No records
+1543,29187,MO,St. Francois County,No records
+1544,29189,MO,St. Louis County,Reported
+1545,29195,MO,Saline County,No records
+1546,29197,MO,Schuyler County,No records
+1547,29199,MO,Scotland County,No records
+1548,29201,MO,Scott County,Reported
+1549,29203,MO,Shannon County,No records
+1550,29205,MO,Shelby County,No records
+1551,29207,MO,Stoddard County,Established
+1552,29209,MO,Stone County,Established
+1553,29211,MO,Sullivan County,No records
+1554,29213,MO,Taney County,Established
+1555,29215,MO,Texas County,Established
+1556,29217,MO,Vernon County,No records
+1557,29219,MO,Warren County,No records
+1558,29221,MO,Washington County,No records
+1559,29223,MO,Wayne County,Established
+1560,29225,MO,Webster County,Established
+1561,29227,MO,Worth County,No records
+1562,29229,MO,Wright County,No records
+1563,29510,MO,St. Louis City,No records
+1564,30001,MT,Beaverhead County,No records
+1565,30003,MT,Big Horn County,No records
+1566,30005,MT,Blaine County,No records
+1567,30007,MT,Broadwater County,No records
+1568,30009,MT,Carbon County,No records
+1569,30011,MT,Carter County,No records
+1570,30013,MT,Cascade County,No records
+1571,30015,MT,Chouteau County,No records
+1572,30017,MT,Custer County,No records
+1573,30019,MT,Daniels County,No records
+1574,30021,MT,Dawson County,No records
+1575,30023,MT,Deer Lodge County,No records
+1576,30025,MT,Fallon County,No records
+1577,30027,MT,Fergus County,No records
+1578,30029,MT,Flathead County,No records
+1579,30031,MT,Gallatin County,No records
+1580,30033,MT,Garfield County,No records
+1581,30035,MT,Glacier County,No records
+1582,30037,MT,Golden Valley County,No records
+1583,30039,MT,Granite County,No records
+1584,30041,MT,Hill County,No records
+1585,30043,MT,Jefferson County,No records
+1586,30045,MT,Judith Basin County,No records
+1587,30047,MT,Lake County,No records
+1588,30049,MT,Lewis and Clark County,No records
+1589,30051,MT,Liberty County,No records
+1590,30053,MT,Lincoln County,No records
+1591,30055,MT,McCone County,No records
+1592,30057,MT,Madison County,No records
+1593,30059,MT,Meagher County,No records
+1594,30061,MT,Mineral County,No records
+1595,30063,MT,Missoula County,No records
+1596,30065,MT,Musselshell County,No records
+1597,30067,MT,Park County,No records
+1598,30069,MT,Petroleum County,No records
+1599,30071,MT,Phillips County,No records
+1600,30073,MT,Pondera County,No records
+1601,30075,MT,Powder River County,No records
+1602,30077,MT,Powell County,No records
+1603,30079,MT,Prairie County,No records
+1604,30081,MT,Ravalli County,No records
+1605,30083,MT,Richland County,No records
+1606,30085,MT,Roosevelt County,No records
+1607,30087,MT,Rosebud County,No records
+1608,30089,MT,Sanders County,No records
+1609,30091,MT,Sheridan County,No records
+1610,30093,MT,Silver Bow County,No records
+1611,30095,MT,Stillwater County,No records
+1612,30097,MT,Sweet Grass County,No records
+1613,30099,MT,Teton County,No records
+1614,30101,MT,Toole County,No records
+1615,30103,MT,Treasure County,No records
+1616,30105,MT,Valley County,No records
+1617,30107,MT,Wheatland County,No records
+1618,30109,MT,Wibaux County,No records
+1619,30111,MT,Yellowstone County,No records
+1620,31001,NE,Adams County,No records
+1621,31003,NE,Antelope County,No records
+1622,31005,NE,Arthur County,No records
+1623,31007,NE,Banner County,No records
+1624,31009,NE,Blaine County,No records
+1625,31011,NE,Boone County,No records
+1626,31013,NE,Box Butte County,No records
+1627,31015,NE,Boyd County,No records
+1628,31017,NE,Brown County,No records
+1629,31019,NE,Buffalo County,No records
+1630,31021,NE,Burt County,No records
+1631,31023,NE,Butler County,No records
+1632,31025,NE,Cass County,Reported
+1633,31027,NE,Cedar County,No records
+1634,31029,NE,Chase County,No records
+1635,31031,NE,Cherry County,No records
+1636,31033,NE,Cheyenne County,No records
+1637,31035,NE,Clay County,No records
+1638,31037,NE,Colfax County,No records
+1639,31039,NE,Cuming County,No records
+1640,31041,NE,Custer County,No records
+1641,31043,NE,Dakota County,No records
+1642,31045,NE,Dawes County,No records
+1643,31047,NE,Dawson County,No records
+1644,31049,NE,Deuel County,No records
+1645,31051,NE,Dixon County,No records
+1646,31053,NE,Dodge County,No records
+1647,31055,NE,Douglas County,No records
+1648,31057,NE,Dundy County,No records
+1649,31059,NE,Fillmore County,No records
+1650,31061,NE,Franklin County,No records
+1651,31063,NE,Frontier County,No records
+1652,31065,NE,Furnas County,No records
+1653,31067,NE,Gage County,No records
+1654,31069,NE,Garden County,No records
+1655,31071,NE,Garfield County,No records
+1656,31073,NE,Gosper County,No records
+1657,31075,NE,Grant County,No records
+1658,31077,NE,Greeley County,No records
+1659,31079,NE,Hall County,No records
+1660,31081,NE,Hamilton County,No records
+1661,31083,NE,Harlan County,No records
+1662,31085,NE,Hayes County,No records
+1663,31087,NE,Hitchcock County,No records
+1664,31089,NE,Holt County,No records
+1665,31091,NE,Hooker County,No records
+1666,31093,NE,Howard County,No records
+1667,31095,NE,Jefferson County,No records
+1668,31097,NE,Johnson County,No records
+1669,31099,NE,Kearney County,No records
+1670,31101,NE,Keith County,No records
+1671,31103,NE,Keya Paha County,No records
+1672,31105,NE,Kimball County,No records
+1673,31107,NE,Knox County,No records
+1674,31109,NE,Lancaster County,Reported
+1675,31111,NE,Lincoln County,No records
+1676,31113,NE,Logan County,No records
+1677,31115,NE,Loup County,No records
+1678,31117,NE,McPherson County,No records
+1679,31119,NE,Madison County,No records
+1680,31121,NE,Merrick County,No records
+1681,31123,NE,Morrill County,No records
+1682,31125,NE,Nance County,No records
+1683,31127,NE,Nemaha County,No records
+1684,31129,NE,Nuckolls County,No records
+1685,31131,NE,Otoe County,No records
+1686,31133,NE,Pawnee County,Reported
+1687,31135,NE,Perkins County,No records
+1688,31137,NE,Phelps County,No records
+1689,31139,NE,Pierce County,No records
+1690,31141,NE,Platte County,No records
+1691,31143,NE,Polk County,No records
+1692,31145,NE,Red Willow County,No records
+1693,31147,NE,Richardson County,No records
+1694,31149,NE,Rock County,No records
+1695,31151,NE,Saline County,No records
+1696,31153,NE,Sarpy County,No records
+1697,31155,NE,Saunders County,No records
+1698,31157,NE,Scotts Bluff County,No records
+1699,31159,NE,Seward County,No records
+1700,31161,NE,Sheridan County,No records
+1701,31163,NE,Sherman County,No records
+1702,31165,NE,Sioux County,No records
+1703,31167,NE,Stanton County,No records
+1704,31169,NE,Thayer County,No records
+1705,31171,NE,Thomas County,No records
+1706,31173,NE,Thurston County,No records
+1707,31175,NE,Valley County,No records
+1708,31177,NE,Washington County,No records
+1709,31179,NE,Wayne County,No records
+1710,31181,NE,Webster County,No records
+1711,31183,NE,Wheeler County,No records
+1712,31185,NE,York County,No records
+1713,32001,NV,Churchill County,No records
+1714,32003,NV,Clark County,No records
+1715,32005,NV,Douglas County,No records
+1716,32007,NV,Elko County,No records
+1717,32009,NV,Esmeralda County,No records
+1718,32011,NV,Eureka County,No records
+1719,32013,NV,Humboldt County,No records
+1720,32015,NV,Lander County,No records
+1721,32017,NV,Lincoln County,No records
+1722,32019,NV,Lyon County,No records
+1723,32021,NV,Mineral County,No records
+1724,32023,NV,Nye County,No records
+1725,32027,NV,Pershing County,No records
+1726,32029,NV,Storey County,No records
+1727,32031,NV,Washoe County,No records
+1728,32033,NV,White Pine County,No records
+1729,32510,NV,Carson City,No records
+1730,33001,NH,Belknap County,Established
+1731,33003,NH,Carroll County,Established
+1732,33005,NH,Cheshire County,Established
+1733,33007,NH,Coos County,Reported
+1734,33009,NH,Grafton County,Established
+1735,33011,NH,Hillsborough County,Established
+1736,33013,NH,Merrimack County,Established
+1737,33015,NH,Rockingham County,Established
+1738,33017,NH,Strafford County,Established
+1739,33019,NH,Sullivan County,Established
+1740,34001,NJ,Atlantic County,Established
+1741,34003,NJ,Bergen County,Established
+1742,34005,NJ,Burlington County,Established
+1743,34007,NJ,Camden County,Established
+1744,34009,NJ,Cape May County,Established
+1745,34011,NJ,Cumberland County,Established
+1746,34013,NJ,Essex County,Established
+1747,34015,NJ,Gloucester County,Established
+1748,34017,NJ,Hudson County,Established
+1749,34019,NJ,Hunterdon County,Established
+1750,34021,NJ,Mercer County,Established
+1751,34023,NJ,Middlesex County,Established
+1752,34025,NJ,Monmouth County,Established
+1753,34027,NJ,Morris County,Established
+1754,34029,NJ,Ocean County,Established
+1755,34031,NJ,Passaic County,Established
+1756,34033,NJ,Salem County,Established
+1757,34035,NJ,Somerset County,Established
+1758,34037,NJ,Sussex County,Established
+1759,34039,NJ,Union County,Established
+1760,34041,NJ,Warren County,Established
+1761,35001,NM,Bernalillo County,No records
+1762,35003,NM,Catron County,No records
+1763,35005,NM,Chaves County,No records
+1764,35006,NM,Cibola County,No records
+1765,35007,NM,Colfax County,No records
+1766,35009,NM,Curry County,No records
+1767,35011,NM,DeBaca County,No records
+1768,35013,NM,Dona Ana County,No records
+1769,35015,NM,Eddy County,No records
+1770,35017,NM,Grant County,No records
+1771,35019,NM,Guadalupe County,No records
+1772,35021,NM,Harding County,No records
+1773,35023,NM,Hidalgo County,No records
+1774,35025,NM,Lea County,No records
+1775,35027,NM,Lincoln County,No records
+1776,35028,NM,Los Alamos County,No records
+1777,35029,NM,Luna County,No records
+1778,35031,NM,McKinley County,No records
+1779,35033,NM,Mora County,No records
+1780,35035,NM,Otero County,No records
+1781,35037,NM,Quay County,No records
+1782,35039,NM,Rio Arriba County,No records
+1783,35041,NM,Roosevelt County,No records
+1784,35043,NM,Sandoval County,No records
+1785,35045,NM,San Juan County,No records
+1786,35047,NM,San Miguel County,No records
+1787,35049,NM,Santa Fe County,No records
+1788,35051,NM,Sierra County,No records
+1789,35053,NM,Socorro County,No records
+1790,35055,NM,Taos County,No records
+1791,35057,NM,Torrance County,No records
+1792,35059,NM,Union County,No records
+1793,35061,NM,Valencia County,No records
+1794,36001,NY,Albany County,Established
+1795,36003,NY,Allegany County,Established
+1796,36005,NYC,Bronx County,Established
+1797,36007,NY,Broome County,Established
+1798,36009,NY,Cattaraugus County,Established
+1799,36011,NY,Cayuga County,Established
+1800,36013,NY,Chautauqua County,Established
+1801,36015,NY,Chemung County,Established
+1802,36017,NY,Chenango County,Established
+1803,36019,NY,Clinton County,Established
+1804,36021,NY,Columbia County,Established
+1805,36023,NY,Cortland County,Established
+1806,36025,NY,Delaware County,Established
+1807,36027,NY,Dutchess County,Established
+1808,36029,NY,Erie County,Established
+1809,36031,NY,Essex County,Established
+1810,36033,NY,Franklin County,Established
+1811,36035,NY,Fulton County,Established
+1812,36037,NY,Genesee County,Established
+1813,36039,NY,Greene County,Established
+1814,36041,NY,Hamilton County,Established
+1815,36043,NY,Herkimer County,Established
+1816,36045,NY,Jefferson County,Established
+1817,36047,NYC,Kings County,Established
+1818,36049,NY,Lewis County,Established
+1819,36051,NY,Livingston County,Established
+1820,36053,NY,Madison County,Established
+1821,36055,NY,Monroe County,Established
+1822,36057,NY,Montgomery County,Established
+1823,36059,NY,Nassau County,Established
+1824,36061,NYC,New York County,Established
+1825,36063,NY,Niagara County,Established
+1826,36065,NY,Oneida County,Established
+1827,36067,NY,Onondaga County,Established
+1828,36069,NY,Ontario County,Established
+1829,36071,NY,Orange County,Established
+1830,36073,NY,Orleans County,Reported
+1831,36075,NY,Oswego County,Established
+1832,36077,NY,Otsego County,Established
+1833,36079,NY,Putnam County,Established
+1834,36081,NYC,Queens County,Established
+1835,36083,NY,Rensselaer County,Established
+1836,36085,NYC,Richmond County,Established
+1837,36087,NY,Rockland County,Established
+1838,36089,NY,St. Lawrence County,Established
+1839,36091,NY,Saratoga County,Established
+1840,36093,NY,Schenectady County,Established
+1841,36095,NY,Schoharie County,Established
+1842,36097,NY,Schuyler County,Established
+1843,36099,NY,Seneca County,Established
+1844,36101,NY,Steuben County,Established
+1845,36103,NY,Suffolk County,Established
+1846,36105,NY,Sullivan County,Established
+1847,36107,NY,Tioga County,Established
+1848,36109,NY,Tompkins County,Established
+1849,36111,NY,Ulster County,Established
+1850,36113,NY,Warren County,Established
+1851,36115,NY,Washington County,Established
+1852,36117,NY,Wayne County,Established
+1853,36119,NY,Westchester County,Established
+1854,36121,NY,Wyoming County,Established
+1855,36123,NY,Yates County,Established
+1856,37001,NC,Alamance County,Established
+1857,37003,NC,Alexander County,Reported
+1858,37005,NC,Alleghany County,Established
+1859,37007,NC,Anson County,Reported
+1860,37009,NC,Ashe County,Established
+1861,37011,NC,Avery County,No records
+1862,37013,NC,Beaufort County,Established
+1863,37015,NC,Bertie County,Established
+1864,37017,NC,Bladen County,Established
+1865,37019,NC,Brunswick County,Established
+1866,37021,NC,Buncombe County,No records
+1867,37023,NC,Burke County,No records
+1868,37025,NC,Cabarrus County,No records
+1869,37027,NC,Caldwell County,No records
+1870,37029,NC,Camden County,Established
+1871,37031,NC,Carteret County,Established
+1872,37033,NC,Caswell County,No records
+1873,37035,NC,Catawba County,Reported
+1874,37037,NC,Chatham County,Established
+1875,37039,NC,Cherokee County,No records
+1876,37041,NC,Chowan County,Established
+1877,37043,NC,Clay County,No records
+1878,37045,NC,Cleveland County,No records
+1879,37047,NC,Columbus County,Established
+1880,37049,NC,Craven County,Established
+1881,37051,NC,Cumberland County,Established
+1882,37053,NC,Currituck County,Reported
+1883,37055,NC,Dare County,Established
+1884,37057,NC,Davidson County,No records
+1885,37059,NC,Davie County,No records
+1886,37061,NC,Duplin County,Established
+1887,37063,NC,Durham County,Established
+1888,37065,NC,Edgecombe County,Established
+1889,37067,NC,Forsyth County,Established
+1890,37069,NC,Franklin County,No records
+1891,37071,NC,Gaston County,No records
+1892,37073,NC,Gates County,Established
+1893,37075,NC,Graham County,No records
+1894,37077,NC,Granville County,Reported
+1895,37079,NC,Greene County,Established
+1896,37081,NC,Guilford County,Reported
+1897,37083,NC,Halifax County,Established
+1898,37085,NC,Harnett County,Established
+1899,37087,NC,Haywood County,Reported
+1900,37089,NC,Henderson County,No records
+1901,37091,NC,Hertford County,Established
+1902,37093,NC,Hoke County,Established
+1903,37095,NC,Hyde County,Established
+1904,37097,NC,Iredell County,Reported
+1905,37099,NC,Jackson County,No records
+1906,37101,NC,Johnston County,Established
+1907,37103,NC,Jones County,Established
+1908,37105,NC,Lee County,No records
+1909,37107,NC,Lenoir County,Reported
+1910,37109,NC,Lincoln County,No records
+1911,37111,NC,McDowell County,No records
+1912,37113,NC,Macon County,No records
+1913,37115,NC,Madison County,No records
+1914,37117,NC,Martin County,Established
+1915,37119,NC,Mecklenburg County,Reported
+1916,37121,NC,Mitchell County,No records
+1917,37123,NC,Montgomery County,No records
+1918,37125,NC,Moore County,Reported
+1919,37127,NC,Nash County,Established
+1920,37129,NC,New Hanover County,Established
+1921,37131,NC,Northampton County,No records
+1922,37133,NC,Onslow County,Established
+1923,37135,NC,Orange County,Established
+1924,37137,NC,Pamlico County,Established
+1925,37139,NC,Pasquotank County,Reported
+1926,37141,NC,Pender County,Established
+1927,37143,NC,Perquimans County,Established
+1928,37145,NC,Person County,No records
+1929,37147,NC,Pitt County,Reported
+1930,37149,NC,Polk County,No records
+1931,37151,NC,Randolph County,Reported
+1932,37153,NC,Richmond County,No records
+1933,37155,NC,Robeson County,Established
+1934,37157,NC,Rockingham County,Established
+1935,37159,NC,Rowan County,Established
+1936,37161,NC,Rutherford County,Reported
+1937,37163,NC,Sampson County,Established
+1938,37165,NC,Scotland County,Established
+1939,37167,NC,Stanly County,No records
+1940,37169,NC,Stokes County,Established
+1941,37171,NC,Surry County,Established
+1942,37173,NC,Swain County,No records
+1943,37175,NC,Transylvania County,No records
+1944,37177,NC,Tyrrell County,Established
+1945,37179,NC,Union County,No records
+1946,37181,NC,Vance County,Reported
+1947,37183,NC,Wake County,Established
+1948,37185,NC,Warren County,Established
+1949,37187,NC,Washington County,Established
+1950,37189,NC,Watauga County,Established
+1951,37191,NC,Wayne County,Established
+1952,37193,NC,Wilkes County,Established
+1953,37195,NC,Wilson County,No records
+1954,37197,NC,Yadkin County,Reported
+1955,37199,NC,Yancey County,No records
+1956,38001,ND,Adams County,No records
+1957,38003,ND,Barnes County,No records
+1958,38005,ND,Benson County,No records
+1959,38007,ND,Billings County,No records
+1960,38009,ND,Bottineau County,Established
+1961,38011,ND,Bowman County,No records
+1962,38013,ND,Burke County,No records
+1963,38015,ND,Burleigh County,No records
+1964,38017,ND,Cass County,No records
+1965,38019,ND,Cavalier County,No records
+1966,38021,ND,Dickey County,No records
+1967,38023,ND,Divide County,No records
+1968,38025,ND,Dunn County,No records
+1969,38027,ND,Eddy County,Established
+1970,38029,ND,Emmons County,No records
+1971,38031,ND,Foster County,No records
+1972,38033,ND,Golden Valley County,No records
+1973,38035,ND,Grand Forks County,Established
+1974,38037,ND,Grant County,No records
+1975,38039,ND,Griggs County,No records
+1976,38041,ND,Hettinger County,No records
+1977,38043,ND,Kidder County,No records
+1978,38045,ND,LaMoure County,No records
+1979,38047,ND,Logan County,No records
+1980,38049,ND,McHenry County,No records
+1981,38051,ND,McIntosh County,No records
+1982,38053,ND,McKenzie County,No records
+1983,38055,ND,McLean County,No records
+1984,38057,ND,Mercer County,No records
+1985,38059,ND,Morton County,No records
+1986,38061,ND,Mountrail County,No records
+1987,38063,ND,Nelson County,No records
+1988,38065,ND,Oliver County,No records
+1989,38067,ND,Pembina County,Established
+1990,38069,ND,Pierce County,No records
+1991,38071,ND,Ramsey County,Established
+1992,38073,ND,Ransom County,Reported
+1993,38075,ND,Renville County,No records
+1994,38077,ND,Richland County,No records
+1995,38079,ND,Rolette County,Reported
+1996,38081,ND,Sargent County,No records
+1997,38083,ND,Sheridan County,No records
+1998,38085,ND,Sioux County,No records
+1999,38087,ND,Slope County,No records
+2000,38089,ND,Stark County,No records
+2001,38091,ND,Steele County,Reported
+2002,38093,ND,Stutsman County,No records
+2003,38095,ND,Towner County,No records
+2004,38097,ND,Traill County,No records
+2005,38099,ND,Walsh County,No records
+2006,38101,ND,Ward County,No records
+2007,38103,ND,Wells County,No records
+2008,38105,ND,Williams County,No records
+2009,39001,OH,Adams County,Established
+2010,39003,OH,Allen County,No records
+2011,39005,OH,Ashland County,Established
+2012,39007,OH,Ashtabula County,Established
+2013,39009,OH,Athens County,Reported
+2014,39011,OH,Auglaize County,Reported
+2015,39013,OH,Belmont County,Established
+2016,39015,OH,Brown County,Reported
+2017,39017,OH,Butler County,Reported
+2018,39019,OH,Carroll County,Established
+2019,39021,OH,Champaign County,No records
+2020,39023,OH,Clark County,No records
+2021,39025,OH,Clermont County,Reported
+2022,39027,OH,Clinton County,No records
+2023,39029,OH,Columbiana County,Established
+2024,39031,OH,Coshocton County,Established
+2025,39033,OH,Crawford County,No records
+2026,39035,OH,Cuyahoga County,Established
+2027,39037,OH,Darke County,No records
+2028,39039,OH,Defiance County,No records
+2029,39041,OH,Delaware County,Reported
+2030,39043,OH,Erie County,Reported
+2031,39045,OH,Fairfield County,Reported
+2032,39047,OH,Fayette County,Reported
+2033,39049,OH,Franklin County,Established
+2034,39051,OH,Fulton County,No records
+2035,39053,OH,Gallia County,Established
+2036,39055,OH,Geauga County,Reported
+2037,39057,OH,Greene County,Reported
+2038,39059,OH,Guernsey County,Established
+2039,39061,OH,Hamilton County,Established
+2040,39063,OH,Hancock County,No records
+2041,39065,OH,Hardin County,No records
+2042,39067,OH,Harrison County,Established
+2043,39069,OH,Henry County,No records
+2044,39071,OH,Highland County,Reported
+2045,39073,OH,Hocking County,Established
+2046,39075,OH,Holmes County,Established
+2047,39077,OH,Huron County,No records
+2048,39079,OH,Jackson County,Established
+2049,39081,OH,Jefferson County,Established
+2050,39083,OH,Knox County,Established
+2051,39085,OH,Lake County,Established
+2052,39087,OH,Lawrence County,Established
+2053,39089,OH,Licking County,Established
+2054,39091,OH,Logan County,No records
+2055,39093,OH,Lorain County,No records
+2056,39095,OH,Lucas County,Reported
+2057,39097,OH,Madison County,Reported
+2058,39099,OH,Mahoning County,Reported
+2059,39101,OH,Marion County,No records
+2060,39103,OH,Medina County,Established
+2061,39105,OH,Meigs County,Established
+2062,39107,OH,Mercer County,No records
+2063,39109,OH,Miami County,No records
+2064,39111,OH,Monroe County,Established
+2065,39113,OH,Montgomery County,Reported
+2066,39115,OH,Morgan County,Established
+2067,39117,OH,Morrow County,Reported
+2068,39119,OH,Muskingum County,Established
+2069,39121,OH,Noble County,Established
+2070,39123,OH,Ottawa County,Reported
+2071,39125,OH,Paulding County,Reported
+2072,39127,OH,Perry County,Established
+2073,39129,OH,Pickaway County,Reported
+2074,39131,OH,Pike County,Established
+2075,39133,OH,Portage County,Established
+2076,39135,OH,Preble County,No records
+2077,39137,OH,Putnam County,No records
+2078,39139,OH,Richland County,Established
+2079,39141,OH,Ross County,Established
+2080,39143,OH,Sandusky County,No records
+2081,39145,OH,Scioto County,Established
+2082,39147,OH,Seneca County,No records
+2083,39149,OH,Shelby County,No records
+2084,39151,OH,Stark County,Established
+2085,39153,OH,Summit County,Established
+2086,39155,OH,Trumbull County,Established
+2087,39157,OH,Tuscarawas County,Reported
+2088,39159,OH,Union County,Reported
+2089,39161,OH,Van Wert County,No records
+2090,39163,OH,Vinton County,Reported
+2091,39165,OH,Warren County,Reported
+2092,39167,OH,Washington County,Established
+2093,39169,OH,Wayne County,Established
+2094,39171,OH,Williams County,Reported
+2095,39173,OH,Wood County,Reported
+2096,39175,OH,Wyandot County,No records
+2097,40001,OK,Adair County,Reported
+2098,40003,OK,Alfalfa County,No records
+2099,40005,OK,Atoka County,Established
+2100,40007,OK,Beaver County,No records
+2101,40009,OK,Beckham County,No records
+2102,40011,OK,Blaine County,Established
+2103,40013,OK,Bryan County,Reported
+2104,40015,OK,Caddo County,Reported
+2105,40017,OK,Canadian County,No records
+2106,40019,OK,Carter County,Established
+2107,40021,OK,Cherokee County,Established
+2108,40023,OK,Choctaw County,No records
+2109,40025,OK,Cimarron County,No records
+2110,40027,OK,Cleveland County,Established
+2111,40029,OK,Coal County,Reported
+2112,40031,OK,Comanche County,Established
+2113,40033,OK,Cotton County,No records
+2114,40035,OK,Craig County,Reported
+2115,40037,OK,Creek County,Reported
+2116,40039,OK,Custer County,Established
+2117,40041,OK,Delaware County,Reported
+2118,40043,OK,Dewey County,Established
+2119,40045,OK,Ellis County,No records
+2120,40047,OK,Garfield County,Reported
+2121,40049,OK,Garvin County,Reported
+2122,40051,OK,Grady County,Reported
+2123,40053,OK,Grant County,No records
+2124,40055,OK,Greer County,No records
+2125,40057,OK,Harmon County,No records
+2126,40059,OK,Harper County,No records
+2127,40061,OK,Haskell County,Reported
+2128,40063,OK,Hughes County,Reported
+2129,40065,OK,Jackson County,No records
+2130,40067,OK,Jefferson County,No records
+2131,40069,OK,Johnston County,Reported
+2132,40071,OK,Kay County,No records
+2133,40073,OK,Kingfisher County,No records
+2134,40075,OK,Kiowa County,No records
+2135,40077,OK,Latimer County,Established
+2136,40079,OK,Le Flore County,Established
+2137,40081,OK,Lincoln County,Reported
+2138,40083,OK,Logan County,Reported
+2139,40085,OK,Love County,Reported
+2140,40087,OK,McClain County,Established
+2141,40089,OK,McCurtain County,Reported
+2142,40091,OK,McIntosh County,Reported
+2143,40093,OK,Major County,Established
+2144,40095,OK,Marshall County,No records
+2145,40097,OK,Mayes County,Established
+2146,40099,OK,Murray County,Reported
+2147,40101,OK,Muskogee County,Reported
+2148,40103,OK,Noble County,Reported
+2149,40105,OK,Nowata County,No records
+2150,40107,OK,Okfuskee County,Reported
+2151,40109,OK,Oklahoma County,Reported
+2152,40111,OK,Okmulgee County,Reported
+2153,40113,OK,Osage County,No records
+2154,40115,OK,Ottawa County,Reported
+2155,40117,OK,Pawnee County,Reported
+2156,40119,OK,Payne County,Established
+2157,40121,OK,Pittsburg County,Established
+2158,40123,OK,Pontotoc County,Reported
+2159,40125,OK,Pottawatomie County,Reported
+2160,40127,OK,Pushmataha County,Reported
+2161,40129,OK,Roger Mills County,No records
+2162,40131,OK,Rogers County,Reported
+2163,40133,OK,Seminole County,Reported
+2164,40135,OK,Sequoyah County,Established
+2165,40137,OK,Stephens County,Reported
+2166,40139,OK,Texas County,No records
+2167,40141,OK,Tillman County,No records
+2168,40143,OK,Tulsa County,Established
+2169,40145,OK,Wagoner County,Reported
+2170,40147,OK,Washington County,Reported
+2171,40149,OK,Washita County,No records
+2172,40151,OK,Woods County,No records
+2173,40153,OK,Woodward County,No records
+2174,41001,OR,Baker County,No records
+2175,41003,OR,Benton County,No records
+2176,41005,OR,Clackamas County,No records
+2177,41007,OR,Clatsop County,No records
+2178,41009,OR,Columbia County,No records
+2179,41011,OR,Coos County,No records
+2180,41013,OR,Crook County,No records
+2181,41015,OR,Curry County,No records
+2182,41017,OR,Deschutes County,No records
+2183,41019,OR,Douglas County,No records
+2184,41021,OR,Gilliam County,No records
+2185,41023,OR,Grant County,No records
+2186,41025,OR,Harney County,No records
+2187,41027,OR,Hood River County,No records
+2188,41029,OR,Jackson County,No records
+2189,41031,OR,Jefferson County,No records
+2190,41033,OR,Josephine County,No records
+2191,41035,OR,Klamath County,No records
+2192,41037,OR,Lake County,No records
+2193,41039,OR,Lane County,No records
+2194,41041,OR,Lincoln County,No records
+2195,41043,OR,Linn County,No records
+2196,41045,OR,Malheur County,No records
+2197,41047,OR,Marion County,No records
+2198,41049,OR,Morrow County,No records
+2199,41051,OR,Multnomah County,No records
+2200,41053,OR,Polk County,No records
+2201,41055,OR,Sherman County,No records
+2202,41057,OR,Tillamook County,No records
+2203,41059,OR,Umatilla County,No records
+2204,41061,OR,Union County,No records
+2205,41063,OR,Wallowa County,No records
+2206,41065,OR,Wasco County,No records
+2207,41067,OR,Washington County,No records
+2208,41069,OR,Wheeler County,No records
+2209,41071,OR,Yamhill County,No records
+2210,42001,PA,Adams County,Established
+2211,42003,PA,Allegheny County,Established
+2212,42005,PA,Armstrong County,Established
+2213,42007,PA,Beaver County,Established
+2214,42009,PA,Bedford County,Established
+2215,42011,PA,Berks County,Established
+2216,42013,PA,Blair County,Established
+2217,42015,PA,Bradford County,Established
+2218,42017,PA,Bucks County,Established
+2219,42019,PA,Butler County,Established
+2220,42021,PA,Cambria County,Established
+2221,42023,PA,Cameron County,Established
+2222,42025,PA,Carbon County,Established
+2223,42027,PA,Centre County,Established
+2224,42029,PA,Chester County,Established
+2225,42031,PA,Clarion County,Established
+2226,42033,PA,Clearfield County,Established
+2227,42035,PA,Clinton County,Established
+2228,42037,PA,Columbia County,Established
+2229,42039,PA,Crawford County,Established
+2230,42041,PA,Cumberland County,Established
+2231,42043,PA,Dauphin County,Established
+2232,42045,PA,Delaware County,Established
+2233,42047,PA,Elk County,Established
+2234,42049,PA,Erie County,Established
+2235,42051,PA,Fayette County,Established
+2236,42053,PA,Forest County,Established
+2237,42055,PA,Franklin County,Established
+2238,42057,PA,Fulton County,Established
+2239,42059,PA,Greene County,Established
+2240,42061,PA,Huntingdon County,Established
+2241,42063,PA,Indiana County,Established
+2242,42065,PA,Jefferson County,Established
+2243,42067,PA,Juniata County,Established
+2244,42069,PA,Lackawanna County,Established
+2245,42071,PA,Lancaster County,Established
+2246,42073,PA,Lawrence County,Established
+2247,42075,PA,Lebanon County,Established
+2248,42077,PA,Lehigh County,Established
+2249,42079,PA,Luzerne County,Established
+2250,42081,PA,Lycoming County,Established
+2251,42083,PA,McKean County,Established
+2252,42085,PA,Mercer County,Established
+2253,42087,PA,Mifflin County,Established
+2254,42089,PA,Monroe County,Established
+2255,42091,PA,Montgomery County,Established
+2256,42093,PA,Montour County,Established
+2257,42095,PA,Northampton County,Established
+2258,42097,PA,Northumberland County,Established
+2259,42099,PA,Perry County,Established
+2260,42101,PA,Philadelphia County,Established
+2261,42103,PA,Pike County,Established
+2262,42105,PA,Potter County,Established
+2263,42107,PA,Schuylkill County,Established
+2264,42109,PA,Snyder County,Established
+2265,42111,PA,Somerset County,Established
+2266,42113,PA,Sullivan County,Established
+2267,42115,PA,Susquehanna County,Established
+2268,42117,PA,Tioga County,Established
+2269,42119,PA,Union County,Established
+2270,42121,PA,Venango County,Established
+2271,42123,PA,Warren County,Established
+2272,42125,PA,Washington County,Established
+2273,42127,PA,Wayne County,Established
+2274,42129,PA,Westmoreland County,Established
+2275,42131,PA,Wyoming County,Established
+2276,42133,PA,York County,Established
+2277,44001,RI,Bristol County,Established
+2278,44003,RI,Kent County,Established
+2279,44005,RI,Newport County,Established
+2280,44007,RI,Providence County,Established
+2281,44009,RI,Washington County,Established
+2282,45001,SC,Abbeville County,Reported
+2283,45003,SC,Aiken County,Established
+2284,45005,SC,Allendale County,Reported
+2285,45007,SC,Anderson County,Reported
+2286,45009,SC,Bamberg County,No records
+2287,45011,SC,Barnwell County,Established
+2288,45013,SC,Beaufort County,Established
+2289,45015,SC,Berkeley County,Established
+2290,45017,SC,Calhoun County,Reported
+2291,45019,SC,Charleston County,Established
+2292,45021,SC,Cherokee County,No records
+2293,45023,SC,Chester County,Established
+2294,45025,SC,Chesterfield County,Reported
+2295,45027,SC,Clarendon County,No records
+2296,45029,SC,Colleton County,Reported
+2297,45031,SC,Darlington County,Reported
+2298,45033,SC,Dillon County,No records
+2299,45035,SC,Dorchester County,Reported
+2300,45037,SC,Edgefield County,Established
+2301,45039,SC,Fairfield County,Reported
+2302,45041,SC,Florence County,Established
+2303,45043,SC,Georgetown County,Established
+2304,45045,SC,Greenville County,Reported
+2305,45047,SC,Greenwood County,Reported
+2306,45049,SC,Hampton County,Established
+2307,45051,SC,Horry County,Reported
+2308,45053,SC,Jasper County,Established
+2309,45055,SC,Kershaw County,No records
+2310,45057,SC,Lancaster County,No records
+2311,45059,SC,Laurens County,Reported
+2312,45061,SC,Lee County,No records
+2313,45063,SC,Lexington County,No records
+2314,45065,SC,McCormick County,Established
+2315,45067,SC,Marion County,No records
+2316,45069,SC,Marlboro County,No records
+2317,45071,SC,Newberry County,Established
+2318,45073,SC,Oconee County,No records
+2319,45075,SC,Orangeburg County,Reported
+2320,45077,SC,Pickens County,Reported
+2321,45079,SC,Richland County,Reported
+2322,45081,SC,Saluda County,Reported
+2323,45083,SC,Spartanburg County,Reported
+2324,45085,SC,Sumter County,Reported
+2325,45087,SC,Union County,Established
+2326,45089,SC,Williamsburg County,No records
+2327,45091,SC,York County,No records
+2328,46003,SD,Aurora County,No records
+2329,46005,SD,Beadle County,No records
+2330,46007,SD,Bennett County,No records
+2331,46009,SD,Bon Homme County,No records
+2332,46011,SD,Brookings County,Reported
+2333,46013,SD,Brown County,No records
+2334,46015,SD,Brule County,No records
+2335,46017,SD,Buffalo County,No records
+2336,46019,SD,Butte County,No records
+2337,46021,SD,Campbell County,No records
+2338,46023,SD,Charles Mix County,No records
+2339,46025,SD,Clark County,No records
+2340,46027,SD,Clay County,Established
+2341,46029,SD,Codington County,Reported
+2342,46031,SD,Corson County,No records
+2343,46033,SD,Custer County,No records
+2344,46035,SD,Davison County,No records
+2345,46037,SD,Day County,No records
+2346,46039,SD,Deuel County,No records
+2347,46041,SD,Dewey County,No records
+2348,46043,SD,Douglas County,No records
+2349,46045,SD,Edmunds County,No records
+2350,46047,SD,Fall River County,No records
+2351,46049,SD,Faulk County,No records
+2352,46051,SD,Grant County,No records
+2353,46053,SD,Gregory County,No records
+2354,46055,SD,Haakon County,No records
+2355,46057,SD,Hamlin County,No records
+2356,46059,SD,Hand County,No records
+2357,46061,SD,Hanson County,No records
+2358,46063,SD,Harding County,No records
+2359,46065,SD,Hughes County,No records
+2360,46067,SD,Hutchinson County,No records
+2361,46069,SD,Hyde County,No records
+2362,46071,SD,Jackson County,No records
+2363,46073,SD,Jerauld County,No records
+2364,46075,SD,Jones County,No records
+2365,46077,SD,Kingsbury County,No records
+2366,46079,SD,Lake County,No records
+2367,46081,SD,Lawrence County,No records
+2368,46083,SD,Lincoln County,No records
+2369,46085,SD,Lyman County,No records
+2370,46087,SD,McCook County,No records
+2371,46089,SD,McPherson County,No records
+2372,46091,SD,Marshall County,No records
+2373,46093,SD,Meade County,No records
+2374,46095,SD,Mellette County,No records
+2375,46097,SD,Miner County,No records
+2376,46099,SD,Minnehaha County,No records
+2377,46101,SD,Moody County,No records
+2378,46103,SD,Pennington County,No records
+2379,46105,SD,Perkins County,No records
+2380,46107,SD,Potter County,No records
+2381,46109,SD,Roberts County,No records
+2382,46111,SD,Sanborn County,No records
+2383,46113,SD,Shannon County,No records
+2384,46115,SD,Spink County,No records
+2385,46117,SD,Stanley County,No records
+2386,46119,SD,Sully County,No records
+2387,46121,SD,Todd County,No records
+2388,46123,SD,Tripp County,No records
+2389,46125,SD,Turner County,No records
+2390,46127,SD,Union County,No records
+2391,46129,SD,Walworth County,No records
+2392,46135,SD,Yankton County,No records
+2393,46137,SD,Ziebach County,No records
+2394,47001,TN,Anderson County,Established
+2395,47003,TN,Bedford County,Established
+2396,47005,TN,Benton County,No records
+2397,47007,TN,Bledsoe County,Reported
+2398,47009,TN,Blount County,No records
+2399,47011,TN,Bradley County,No records
+2400,47013,TN,Campbell County,Established
+2401,47015,TN,Cannon County,No records
+2402,47017,TN,Carroll County,No records
+2403,47019,TN,Carter County,No records
+2404,47021,TN,Cheatham County,No records
+2405,47023,TN,Chester County,No records
+2406,47025,TN,Claiborne County,Reported
+2407,47027,TN,Clay County,Reported
+2408,47029,TN,Cocke County,No records
+2409,47031,TN,Coffee County,Established
+2410,47033,TN,Crockett County,No records
+2411,47035,TN,Cumberland County,Established
+2412,47037,TN,Davidson County,Established
+2413,47039,TN,Decatur County,No records
+2414,47041,TN,DeKalb County,Established
+2415,47043,TN,Dickson County,No records
+2416,47045,TN,Dyer County,No records
+2417,47047,TN,Fayette County,Established
+2418,47049,TN,Fentress County,Reported
+2419,47051,TN,Franklin County,Established
+2420,47053,TN,Gibson County,No records
+2421,47055,TN,Giles County,Reported
+2422,47057,TN,Grainger County,Reported
+2423,47059,TN,Greene County,No records
+2424,47061,TN,Grundy County,No records
+2425,47063,TN,Hamblen County,No records
+2426,47065,TN,Hamilton County,Established
+2427,47067,TN,Hancock County,No records
+2428,47069,TN,Hardeman County,Established
+2429,47071,TN,Hardin County,No records
+2430,47073,TN,Hawkins County,No records
+2431,47075,TN,Haywood County,No records
+2432,47077,TN,Henderson County,No records
+2433,47079,TN,Henry County,Reported
+2434,47081,TN,Hickman County,No records
+2435,47083,TN,Houston County,No records
+2436,47085,TN,Humphreys County,Reported
+2437,47087,TN,Jackson County,Established
+2438,47089,TN,Jefferson County,No records
+2439,47091,TN,Johnson County,No records
+2440,47093,TN,Knox County,Established
+2441,47095,TN,Lake County,Reported
+2442,47097,TN,Lauderdale County,Reported
+2443,47099,TN,Lawrence County,Established
+2444,47101,TN,Lewis County,No records
+2445,47103,TN,Lincoln County,No records
+2446,47105,TN,Loudon County,Established
+2447,47107,TN,McMinn County,No records
+2448,47109,TN,McNairy County,No records
+2449,47111,TN,Macon County,No records
+2450,47113,TN,Madison County,Established
+2451,47115,TN,Marion County,Established
+2452,47117,TN,Marshall County,Established
+2453,47119,TN,Maury County,Reported
+2454,47121,TN,Meigs County,No records
+2455,47123,TN,Monroe County,No records
+2456,47125,TN,Montgomery County,Established
+2457,47127,TN,Moore County,No records
+2458,47129,TN,Morgan County,Reported
+2459,47131,TN,Obion County,Reported
+2460,47133,TN,Overton County,No records
+2461,47135,TN,Perry County,No records
+2462,47137,TN,Pickett County,Reported
+2463,47139,TN,Polk County,No records
+2464,47141,TN,Putnam County,No records
+2465,47143,TN,Rhea County,Established
+2466,47145,TN,Roane County,Reported
+2467,47147,TN,Robertson County,Reported
+2468,47149,TN,Rutherford County,Reported
+2469,47151,TN,Scott County,Established
+2470,47153,TN,Sequatchie County,Reported
+2471,47155,TN,Sevier County,No records
+2472,47157,TN,Shelby County,Established
+2473,47159,TN,Smith County,No records
+2474,47161,TN,Stewart County,Reported
+2475,47163,TN,Sullivan County,No records
+2476,47165,TN,Sumner County,Reported
+2477,47167,TN,Tipton County,Reported
+2478,47169,TN,Trousdale County,No records
+2479,47171,TN,Unicoi County,No records
+2480,47173,TN,Union County,No records
+2481,47175,TN,Van Buren County,No records
+2482,47177,TN,Warren County,Reported
+2483,47179,TN,Washington County,No records
+2484,47181,TN,Wayne County,Reported
+2485,47183,TN,Weakley County,No records
+2486,47185,TN,White County,Reported
+2487,47187,TN,Williamson County,Established
+2488,47189,TN,Wilson County,No records
+2489,48001,TX,Anderson County,Established
+2490,48003,TX,Andrews County,No records
+2491,48005,TX,Angelina County,Established
+2492,48007,TX,Aransas County,Established
+2493,48009,TX,Archer County,No records
+2494,48011,TX,Armstrong County,No records
+2495,48013,TX,Atascosa County,No records
+2496,48015,TX,Austin County,Reported
+2497,48017,TX,Bailey County,No records
+2498,48019,TX,Bandera County,Reported
+2499,48021,TX,Bastrop County,Reported
+2500,48023,TX,Baylor County,No records
+2501,48025,TX,Bee County,No records
+2502,48027,TX,Bell County,Established
+2503,48029,TX,Bexar County,Established
+2504,48031,TX,Blanco County,Reported
+2505,48033,TX,Borden County,No records
+2506,48035,TX,Bosque County,No records
+2507,48037,TX,Bowie County,Reported
+2508,48039,TX,Brazoria County,Established
+2509,48041,TX,Brazos County,Established
+2510,48043,TX,Brewster County,No records
+2511,48045,TX,Briscoe County,No records
+2512,48047,TX,Brooks County,No records
+2513,48049,TX,Brown County,No records
+2514,48051,TX,Burleson County,No records
+2515,48053,TX,Burnet County,No records
+2516,48055,TX,Caldwell County,No records
+2517,48057,TX,Calhoun County,No records
+2518,48059,TX,Callahan County,No records
+2519,48061,TX,Cameron County,Reported
+2520,48063,TX,Camp County,No records
+2521,48065,TX,Carson County,No records
+2522,48067,TX,Cass County,Established
+2523,48069,TX,Castro County,No records
+2524,48071,TX,Chambers County,No records
+2525,48073,TX,Cherokee County,Established
+2526,48075,TX,Childress County,No records
+2527,48077,TX,Clay County,No records
+2528,48079,TX,Cochran County,No records
+2529,48081,TX,Coke County,No records
+2530,48083,TX,Coleman County,No records
+2531,48085,TX,Collin County,No records
+2532,48087,TX,Collingsworth County,No records
+2533,48089,TX,Colorado County,Reported
+2534,48091,TX,Comal County,No records
+2535,48093,TX,Comanche County,No records
+2536,48095,TX,Concho County,No records
+2537,48097,TX,Cooke County,No records
+2538,48099,TX,Coryell County,Reported
+2539,48101,TX,Cottle County,No records
+2540,48103,TX,Crane County,No records
+2541,48105,TX,Crockett County,No records
+2542,48107,TX,Crosby County,No records
+2543,48109,TX,Culberson County,No records
+2544,48111,TX,Dallam County,No records
+2545,48113,TX,Dallas County,Reported
+2546,48115,TX,Dawson County,No records
+2547,48117,TX,Deaf Smith County,No records
+2548,48119,TX,Delta County,No records
+2549,48121,TX,Denton County,No records
+2550,48123,TX,DeWitt County,No records
+2551,48125,TX,Dickens County,No records
+2552,48127,TX,Dimmit County,No records
+2553,48129,TX,Donley County,No records
+2554,48131,TX,Duval County,No records
+2555,48133,TX,Eastland County,No records
+2556,48135,TX,Ector County,No records
+2557,48137,TX,Edwards County,Reported
+2558,48139,TX,Ellis County,No records
+2559,48141,TX,El Paso County,No records
+2560,48143,TX,Erath County,No records
+2561,48145,TX,Falls County,No records
+2562,48147,TX,Fannin County,No records
+2563,48149,TX,Fayette County,No records
+2564,48151,TX,Fisher County,No records
+2565,48153,TX,Floyd County,No records
+2566,48155,TX,Foard County,No records
+2567,48157,TX,Fort Bend County,Reported
+2568,48159,TX,Franklin County,Reported
+2569,48161,TX,Freestone County,Established
+2570,48163,TX,Frio County,No records
+2571,48165,TX,Gaines County,No records
+2572,48167,TX,Galveston County,No records
+2573,48169,TX,Garza County,No records
+2574,48171,TX,Gillespie County,No records
+2575,48173,TX,Glasscock County,No records
+2576,48175,TX,Goliad County,No records
+2577,48177,TX,Gonzales County,No records
+2578,48179,TX,Gray County,No records
+2579,48181,TX,Grayson County,Reported
+2580,48183,TX,Gregg County,Reported
+2581,48185,TX,Grimes County,No records
+2582,48187,TX,Guadalupe County,No records
+2583,48189,TX,Hale County,No records
+2584,48191,TX,Hall County,No records
+2585,48193,TX,Hamilton County,Reported
+2586,48195,TX,Hansford County,No records
+2587,48197,TX,Hardeman County,No records
+2588,48199,TX,Hardin County,No records
+2589,48201,TX,Harris County,Established
+2590,48203,TX,Harrison County,Reported
+2591,48205,TX,Hartley County,No records
+2592,48207,TX,Haskell County,No records
+2593,48209,TX,Hays County,Reported
+2594,48211,TX,Hemphill County,No records
+2595,48213,TX,Henderson County,Established
+2596,48215,TX,Hidalgo County,Reported
+2597,48217,TX,Hill County,No records
+2598,48219,TX,Hockley County,No records
+2599,48221,TX,Hood County,No records
+2600,48223,TX,Hopkins County,No records
+2601,48225,TX,Houston County,Reported
+2602,48227,TX,Howard County,No records
+2603,48229,TX,Hudspeth County,No records
+2604,48231,TX,Hunt County,Reported
+2605,48233,TX,Hutchinson County,No records
+2606,48235,TX,Irion County,No records
+2607,48237,TX,Jack County,No records
+2608,48239,TX,Jackson County,No records
+2609,48241,TX,Jasper County,Established
+2610,48243,TX,Jeff Davis County,No records
+2611,48245,TX,Jefferson County,Reported
+2612,48247,TX,Jim Hogg County,No records
+2613,48249,TX,Jim Wells County,No records
+2614,48251,TX,Johnson County,No records
+2615,48253,TX,Jones County,No records
+2616,48255,TX,Karnes County,No records
+2617,48257,TX,Kaufman County,No records
+2618,48259,TX,Kendall County,No records
+2619,48261,TX,Kenedy County,No records
+2620,48263,TX,Kent County,No records
+2621,48265,TX,Kerr County,Reported
+2622,48267,TX,Kimble County,No records
+2623,48269,TX,King County,No records
+2624,48271,TX,Kinney County,No records
+2625,48273,TX,Kleberg County,Reported
+2626,48275,TX,Knox County,No records
+2627,48277,TX,Lamar County,Reported
+2628,48279,TX,Lamb County,No records
+2629,48281,TX,Lampasas County,Reported
+2630,48283,TX,La Salle County,No records
+2631,48285,TX,Lavaca County,Established
+2632,48287,TX,Lee County,No records
+2633,48289,TX,Leon County,Established
+2634,48291,TX,Liberty County,Reported
+2635,48293,TX,Limestone County,No records
+2636,48295,TX,Lipscomb County,No records
+2637,48297,TX,Live Oak County,No records
+2638,48299,TX,Llano County,Reported
+2639,48301,TX,Loving County,No records
+2640,48303,TX,Lubbock County,No records
+2641,48305,TX,Lynn County,No records
+2642,48307,TX,McCulloch County,No records
+2643,48309,TX,McLennan County,No records
+2644,48311,TX,McMullen County,No records
+2645,48313,TX,Madison County,No records
+2646,48315,TX,Marion County,Established
+2647,48317,TX,Martin County,No records
+2648,48319,TX,Mason County,Reported
+2649,48321,TX,Matagorda County,Reported
+2650,48323,TX,Maverick County,No records
+2651,48325,TX,Medina County,No records
+2652,48327,TX,Menard County,No records
+2653,48329,TX,Midland County,No records
+2654,48331,TX,Milam County,No records
+2655,48333,TX,Mills County,No records
+2656,48335,TX,Mitchell County,No records
+2657,48337,TX,Montague County,No records
+2658,48339,TX,Montgomery County,Established
+2659,48341,TX,Moore County,No records
+2660,48343,TX,Morris County,No records
+2661,48345,TX,Motley County,No records
+2662,48347,TX,Nacogdoches County,Established
+2663,48349,TX,Navarro County,No records
+2664,48351,TX,Newton County,Reported
+2665,48353,TX,Nolan County,No records
+2666,48355,TX,Nueces County,No records
+2667,48357,TX,Ochiltree County,No records
+2668,48359,TX,Oldham County,No records
+2669,48361,TX,Orange County,No records
+2670,48363,TX,Palo Pinto County,Reported
+2671,48365,TX,Panola County,No records
+2672,48367,TX,Parker County,Established
+2673,48369,TX,Parmer County,No records
+2674,48371,TX,Pecos County,No records
+2675,48373,TX,Polk County,Established
+2676,48375,TX,Potter County,No records
+2677,48377,TX,Presidio County,No records
+2678,48379,TX,Rains County,No records
+2679,48381,TX,Randall County,No records
+2680,48383,TX,Reagan County,No records
+2681,48385,TX,Real County,Established
+2682,48387,TX,Red River County,No records
+2683,48389,TX,Reeves County,No records
+2684,48391,TX,Refugio County,No records
+2685,48393,TX,Roberts County,No records
+2686,48395,TX,Robertson County,Reported
+2687,48397,TX,Rockwall County,No records
+2688,48399,TX,Runnels County,No records
+2689,48401,TX,Rusk County,Reported
+2690,48403,TX,Sabine County,Reported
+2691,48405,TX,San Augustine County,Reported
+2692,48407,TX,San Jacinto County,No records
+2693,48409,TX,San Patricio County,No records
+2694,48411,TX,San Saba County,No records
+2695,48413,TX,Schleicher County,No records
+2696,48415,TX,Scurry County,No records
+2697,48417,TX,Shackelford County,No records
+2698,48419,TX,Shelby County,Reported
+2699,48421,TX,Sherman County,No records
+2700,48423,TX,Smith County,Established
+2701,48425,TX,Somervell County,No records
+2702,48427,TX,Starr County,No records
+2703,48429,TX,Stephens County,No records
+2704,48431,TX,Sterling County,No records
+2705,48433,TX,Stonewall County,No records
+2706,48435,TX,Sutton County,Reported
+2707,48437,TX,Swisher County,No records
+2708,48439,TX,Tarrant County,Reported
+2709,48441,TX,Taylor County,Reported
+2710,48443,TX,Terrell County,No records
+2711,48445,TX,Terry County,No records
+2712,48447,TX,Throckmorton County,No records
+2713,48449,TX,Titus County,No records
+2714,48451,TX,Tom Green County,No records
+2715,48453,TX,Travis County,No records
+2716,48455,TX,Trinity County,Established
+2717,48457,TX,Tyler County,Established
+2718,48459,TX,Upshur County,Reported
+2719,48461,TX,Upton County,No records
+2720,48463,TX,Uvalde County,Reported
+2721,48465,TX,Val Verde County,No records
+2722,48467,TX,Van Zandt County,No records
+2723,48469,TX,Victoria County,Reported
+2724,48471,TX,Walker County,Reported
+2725,48473,TX,Waller County,Established
+2726,48475,TX,Ward County,No records
+2727,48477,TX,Washington County,Reported
+2728,48479,TX,Webb County,No records
+2729,48481,TX,Wharton County,No records
+2730,48483,TX,Wheeler County,No records
+2731,48485,TX,Wichita County,No records
+2732,48487,TX,Wilbarger County,No records
+2733,48489,TX,Willacy County,No records
+2734,48491,TX,Williamson County,No records
+2735,48493,TX,Wilson County,No records
+2736,48495,TX,Winkler County,No records
+2737,48497,TX,Wise County,No records
+2738,48499,TX,Wood County,Established
+2739,48501,TX,Yoakum County,No records
+2740,48503,TX,Young County,No records
+2741,48505,TX,Zapata County,No records
+2742,48507,TX,Zavala County,Reported
+2743,49001,UT,Beaver County,No records
+2744,49003,UT,Box Elder County,No records
+2745,49005,UT,Cache County,No records
+2746,49007,UT,Carbon County,No records
+2747,49009,UT,Daggett County,No records
+2748,49011,UT,Davis County,No records
+2749,49013,UT,Duchesne County,No records
+2750,49015,UT,Emery County,No records
+2751,49017,UT,Garfield County,No records
+2752,49019,UT,Grand County,No records
+2753,49021,UT,Iron County,No records
+2754,49023,UT,Juab County,No records
+2755,49025,UT,Kane County,No records
+2756,49027,UT,Millard County,No records
+2757,49029,UT,Morgan County,No records
+2758,49031,UT,Piute County,No records
+2759,49033,UT,Rich County,No records
+2760,49035,UT,Salt Lake County,No records
+2761,49037,UT,San Juan County,No records
+2762,49039,UT,Sanpete County,No records
+2763,49041,UT,Sevier County,No records
+2764,49043,UT,Summit County,No records
+2765,49045,UT,Tooele County,No records
+2766,49047,UT,Uintah County,No records
+2767,49049,UT,Utah County,No records
+2768,49051,UT,Wasatch County,No records
+2769,49053,UT,Washington County,No records
+2770,49055,UT,Wayne County,No records
+2771,49057,UT,Weber County,No records
+2772,50001,VT,Addison County,Established
+2773,50003,VT,Bennington County,Established
+2774,50005,VT,Caledonia County,Established
+2775,50007,VT,Chittenden County,Established
+2776,50009,VT,Essex County,No records
+2777,50011,VT,Franklin County,Established
+2778,50013,VT,Grand Isle County,Established
+2779,50015,VT,Lamoille County,Reported
+2780,50017,VT,Orange County,Established
+2781,50019,VT,Orleans County,Reported
+2782,50021,VT,Rutland County,Established
+2783,50023,VT,Washington County,Established
+2784,50025,VT,Windham County,Established
+2785,50027,VT,Windsor County,Established
+2786,51001,VA,Accomack County,Established
+2787,51003,VA,Albemarle County,Established
+2788,51005,VA,Alleghany County,Established
+2789,51007,VA,Amelia County,No records
+2790,51009,VA,Amherst County,No records
+2791,51011,VA,Appomattox County,Established
+2792,51013,VA,Arlington County,Reported
+2793,51015,VA,Augusta County,Established
+2794,51017,VA,Bath County,Established
+2795,51019,VA,Bedford County,Established
+2796,51021,VA,Bland County,Established
+2797,51023,VA,Botetourt County,No records
+2798,51025,VA,Brunswick County,Reported
+2799,51027,VA,Buchanan County,No records
+2800,51029,VA,Buckingham County,Established
+2801,51031,VA,Campbell County,No records
+2802,51033,VA,Caroline County,Established
+2803,51035,VA,Carroll County,Established
+2804,51036,VA,Charles City County,Reported
+2805,51037,VA,Charlotte County,No records
+2806,51041,VA,Chesterfield County,Established
+2807,51043,VA,Clarke County,No records
+2808,51045,VA,Craig County,Established
+2809,51047,VA,Culpeper County,Reported
+2810,51049,VA,Cumberland County,Reported
+2811,51051,VA,Dickenson County,No records
+2812,51053,VA,Dinwiddie County,Reported
+2813,51057,VA,Essex County,Reported
+2814,51059,VA,Fairfax County,Established
+2815,51061,VA,Fauquier County,Established
+2816,51063,VA,Floyd County,Established
+2817,51065,VA,Fluvanna County,Established
+2818,51067,VA,Franklin County,Established
+2819,51069,VA,Frederick County,Established
+2820,51071,VA,Giles County,Established
+2821,51073,VA,Gloucester County,Reported
+2822,51075,VA,Goochland County,Established
+2823,51077,VA,Grayson County,Established
+2824,51079,VA,Greene County,Established
+2825,51081,VA,Greensville County,Reported
+2826,51083,VA,Halifax County,No records
+2827,51085,VA,Hanover County,Reported
+2828,51087,VA,Henrico County,Reported
+2829,51089,VA,Henry County,No records
+2830,51091,VA,Highland County,No records
+2831,51093,VA,Isle of Wight County,Established
+2832,51095,VA,James City County,Established
+2833,51097,VA,King and Queen County,Reported
+2834,51099,VA,King George County,Established
+2835,51101,VA,King William County,No records
+2836,51103,VA,Lancaster County,Reported
+2837,51105,VA,Lee County,No records
+2838,51107,VA,Loudoun County,Established
+2839,51109,VA,Louisa County,No records
+2840,51111,VA,Lunenburg County,No records
+2841,51113,VA,Madison County,No records
+2842,51115,VA,Mathews County,No records
+2843,51117,VA,Mecklenburg County,Reported
+2844,51119,VA,Middlesex County,Established
+2845,51121,VA,Montgomery County,Established
+2846,51125,VA,Nelson County,Established
+2847,51127,VA,New Kent County,Reported
+2848,51131,VA,Northampton County,Established
+2849,51133,VA,Northumberland County,Reported
+2850,51135,VA,Nottoway County,No records
+2851,51137,VA,Orange County,No records
+2852,51139,VA,Page County,No records
+2853,51141,VA,Patrick County,Established
+2854,51143,VA,Pittsylvania County,No records
+2855,51145,VA,Powhatan County,Established
+2856,51147,VA,Prince Edward County,Reported
+2857,51149,VA,Prince George County,Reported
+2858,51153,VA,Prince William County,Established
+2859,51155,VA,Pulaski County,Established
+2860,51157,VA,Rappahannock County,Reported
+2861,51159,VA,Richmond County,Reported
+2862,51161,VA,Roanoke County,Established
+2863,51163,VA,Rockbridge County,Established
+2864,51165,VA,Rockingham County,Reported
+2865,51167,VA,Russell County,No records
+2866,51169,VA,Scott County,No records
+2867,51171,VA,Shenandoah County,Reported
+2868,51173,VA,Smyth County,Established
+2869,51175,VA,Southampton County,Established
+2870,51177,VA,Spotsylvania County,Reported
+2871,51179,VA,Stafford County,Established
+2872,51181,VA,Surry County,No records
+2873,51183,VA,Sussex County,Reported
+2874,51185,VA,Tazewell County,No records
+2875,51187,VA,Warren County,Established
+2876,51191,VA,Washington County,Established
+2877,51193,VA,Westmoreland County,Established
+2878,51195,VA,Wise County,No records
+2879,51197,VA,Wythe County,Established
+2880,51199,VA,York County,Established
+2881,51510,VA,Alexandria City County,No records
+2882,51515,VA,Bedford City County,Reported
+2883,51520,VA,Bristol City County,No records
+2884,51530,VA,Buena Vista City County,No records
+2885,51540,VA,Charlottesville City County,No records
+2886,51550,VA,Chesapeake City County,Established
+2887,51570,VA,Colonial Heights City County,No records
+2888,51580,VA,Covington City County,No records
+2889,51590,VA,Danville City County,No records
+2890,51595,VA,Emporia City County,No records
+2891,51600,VA,Fairfax City County,No records
+2892,51610,VA,Falls Church City County,No records
+2893,51620,VA,Franklin City County,No records
+2894,51630,VA,Fredericksburg City County,No records
+2895,51640,VA,Galax City County,No records
+2896,51650,VA,Hampton City County,Established
+2897,51660,VA,Harrisonburg City County,No records
+2898,51670,VA,Hopewell City County,No records
+2899,51678,VA,Lexington City County,No records
+2900,51680,VA,Lynchburg City County,Established
+2901,51683,VA,Manassas City County,No records
+2902,51685,VA,Manassas Park City County,No records
+2903,51690,VA,Martinsville City County,No records
+2904,51700,VA,Newport News City County,Established
+2905,51710,VA,Norfolk City County,Reported
+2906,51720,VA,Norton City County,No records
+2907,51730,VA,Petersburg City County,No records
+2908,51735,VA,Poquoson City County,No records
+2909,51740,VA,Portsmouth City County,Established
+2910,51750,VA,Radford City County,No records
+2911,51760,VA,Richmond City County,No records
+2912,51770,VA,Roanoke City County,No records
+2913,51775,VA,Salem City County,No records
+2914,51790,VA,Staunton City County,No records
+2915,51800,VA,Suffolk City County,Established
+2916,51810,VA,Virginia Beach City County,Established
+2917,51820,VA,Waynesboro City County,No records
+2918,51830,VA,Williamsburg City County,No records
+2919,51840,VA,Winchester City County,No records
+2920,53001,WA,Adams County,No records
+2921,53003,WA,Asotin County,No records
+2922,53005,WA,Benton County,No records
+2923,53007,WA,Chelan County,No records
+2924,53009,WA,Clallam County,No records
+2925,53011,WA,Clark County,No records
+2926,53013,WA,Columbia County,No records
+2927,53015,WA,Cowlitz County,No records
+2928,53017,WA,Douglas County,No records
+2929,53019,WA,Ferry County,No records
+2930,53021,WA,Franklin County,No records
+2931,53023,WA,Garfield County,No records
+2932,53025,WA,Grant County,No records
+2933,53027,WA,Grays Harbor County,No records
+2934,53029,WA,Island County,No records
+2935,53031,WA,Jefferson County,No records
+2936,53033,WA,King County,No records
+2937,53035,WA,Kitsap County,No records
+2938,53037,WA,Kittitas County,No records
+2939,53039,WA,Klickitat County,No records
+2940,53041,WA,Lewis County,No records
+2941,53043,WA,Lincoln County,No records
+2942,53045,WA,Mason County,No records
+2943,53047,WA,Okanogan County,No records
+2944,53049,WA,Pacific County,No records
+2945,53051,WA,Pend Oreille County,No records
+2946,53053,WA,Pierce County,No records
+2947,53055,WA,San Juan County,No records
+2948,53057,WA,Skagit County,No records
+2949,53059,WA,Skamania County,No records
+2950,53061,WA,Snohomish County,No records
+2951,53063,WA,Spokane County,No records
+2952,53065,WA,Stevens County,No records
+2953,53067,WA,Thurston County,No records
+2954,53069,WA,Wahkiakum County,No records
+2955,53071,WA,Walla Walla County,No records
+2956,53073,WA,Whatcom County,No records
+2957,53075,WA,Whitman County,No records
+2958,53077,WA,Yakima County,No records
+2959,54001,WV,Barbour County,Established
+2960,54003,WV,Berkeley County,Established
+2961,54005,WV,Boone County,Reported
+2962,54007,WV,Braxton County,Established
+2963,54009,WV,Brooke County,Established
+2964,54011,WV,Cabell County,Reported
+2965,54013,WV,Calhoun County,No records
+2966,54015,WV,Clay County,No records
+2967,54017,WV,Doddridge County,Reported
+2968,54019,WV,Fayette County,Reported
+2969,54021,WV,Gilmer County,Established
+2970,54023,WV,Grant County,Reported
+2971,54025,WV,Greenbrier County,Established
+2972,54027,WV,Hampshire County,Reported
+2973,54029,WV,Hancock County,Established
+2974,54031,WV,Hardy County,Established
+2975,54033,WV,Harrison County,Established
+2976,54035,WV,Jackson County,Reported
+2977,54037,WV,Jefferson County,Established
+2978,54039,WV,Kanawha County,Established
+2979,54041,WV,Lewis County,Established
+2980,54043,WV,Lincoln County,Reported
+2981,54045,WV,Logan County,Reported
+2982,54047,WV,McDowell County,No records
+2983,54049,WV,Marion County,Established
+2984,54051,WV,Marshall County,Reported
+2985,54053,WV,Mason County,No records
+2986,54055,WV,Mercer County,Established
+2987,54057,WV,Mineral County,Reported
+2988,54059,WV,Mingo County,No records
+2989,54061,WV,Monongalia County,Established
+2990,54063,WV,Monroe County,Established
+2991,54065,WV,Morgan County,Reported
+2992,54067,WV,Nicholas County,No records
+2993,54069,WV,Ohio County,Reported
+2994,54071,WV,Pendleton County,No records
+2995,54073,WV,Pleasants County,No records
+2996,54075,WV,Pocahontas County,Reported
+2997,54077,WV,Preston County,Established
+2998,54079,WV,Putnam County,Reported
+2999,54081,WV,Raleigh County,Established
+3000,54083,WV,Randolph County,Reported
+3001,54085,WV,Ritchie County,Reported
+3002,54087,WV,Roane County,No records
+3003,54089,WV,Summers County,Established
+3004,54091,WV,Taylor County,Established
+3005,54093,WV,Tucker County,Reported
+3006,54095,WV,Tyler County,Reported
+3007,54097,WV,Upshur County,Established
+3008,54099,WV,Wayne County,No records
+3009,54101,WV,Webster County,No records
+3010,54103,WV,Wetzel County,Established
+3011,54105,WV,Wirt County,Established
+3012,54107,WV,Wood County,Reported
+3013,54109,WV,Wyoming County,No records
+3014,55001,WI,Adams County,Established
+3015,55003,WI,Ashland County,Established
+3016,55005,WI,Barron County,Established
+3017,55007,WI,Bayfield County,Established
+3018,55009,WI,Brown County,Established
+3019,55011,WI,Buffalo County,Established
+3020,55013,WI,Burnett County,Established
+3021,55015,WI,Calumet County,No records
+3022,55017,WI,Chippewa County,Established
+3023,55019,WI,Clark County,Established
+3024,55021,WI,Columbia County,Established
+3025,55023,WI,Crawford County,Established
+3026,55025,WI,Dane County,Established
+3027,55027,WI,Dodge County,Reported
+3028,55029,WI,Door County,Established
+3029,55031,WI,Douglas County,Established
+3030,55033,WI,Dunn County,Established
+3031,55035,WI,Eau Claire County,Established
+3032,55037,WI,Florence County,Reported
+3033,55039,WI,Fond du Lac County,Reported
+3034,55041,WI,Forest County,Established
+3035,55043,WI,Grant County,Established
+3036,55045,WI,Green County,Established
+3037,55047,WI,Green Lake County,Established
+3038,55049,WI,Iowa County,Established
+3039,55051,WI,Iron County,No records
+3040,55053,WI,Jackson County,Established
+3041,55055,WI,Jefferson County,Established
+3042,55057,WI,Juneau County,Established
+3043,55059,WI,Kenosha County,Reported
+3044,55061,WI,Kewaunee County,No records
+3045,55063,WI,La Crosse County,Established
+3046,55065,WI,Lafayette County,Reported
+3047,55067,WI,Langlade County,Established
+3048,55069,WI,Lincoln County,Established
+3049,55071,WI,Manitowoc County,Reported
+3050,55073,WI,Marathon County,Established
+3051,55075,WI,Marinette County,Established
+3052,55077,WI,Marquette County,No records
+3053,55078,WI,Menominee County,Established
+3054,55079,WI,Milwaukee County,Established
+3055,55081,WI,Monroe County,Established
+3056,55083,WI,Oconto County,Established
+3057,55085,WI,Oneida County,Established
+3058,55087,WI,Outagamie County,Reported
+3059,55089,WI,Ozaukee County,Reported
+3060,55091,WI,Pepin County,No records
+3061,55093,WI,Pierce County,Reported
+3062,55095,WI,Polk County,Reported
+3063,55097,WI,Portage County,Established
+3064,55099,WI,Price County,Established
+3065,55101,WI,Racine County,Established
+3066,55103,WI,Richland County,Established
+3067,55105,WI,Rock County,Established
+3068,55107,WI,Rusk County,Established
+3069,55109,WI,St. Croix County,Established
+3070,55111,WI,Sauk County,Established
+3071,55113,WI,Sawyer County,Established
+3072,55115,WI,Shawano County,Reported
+3073,55117,WI,Sheboygan County,Established
+3074,55119,WI,Taylor County,Established
+3075,55121,WI,Trempealeau County,Established
+3076,55123,WI,Vernon County,Reported
+3077,55125,WI,Vilas County,Established
+3078,55127,WI,Walworth County,Established
+3079,55129,WI,Washburn County,Established
+3080,55131,WI,Washington County,No records
+3081,55133,WI,Waukesha County,Established
+3082,55135,WI,Waupaca County,Established
+3083,55137,WI,Waushara County,Reported
+3084,55139,WI,Winnebago County,Reported
+3085,55141,WI,Wood County,Reported
+3086,56001,WY,Albany County,No records
+3087,56003,WY,Big Horn County,No records
+3088,56005,WY,Campbell County,No records
+3089,56007,WY,Carbon County,No records
+3090,56009,WY,Converse County,No records
+3091,56011,WY,Crook County,No records
+3092,56013,WY,Fremont County,No records
+3093,56015,WY,Goshen County,No records
+3094,56017,WY,Hot Springs County,No records
+3095,56019,WY,Johnson County,No records
+3096,56021,WY,Laramie County,No records
+3097,56023,WY,Lincoln County,No records
+3098,56025,WY,Natrona County,No records
+3099,56027,WY,Niobrara County,No records
+3100,56029,WY,Park County,No records
+3101,56031,WY,Platte County,No records
+3102,56033,WY,Sheridan County,No records
+3103,56035,WY,Sublette County,No records
+3104,56037,WY,Sweetwater County,No records
+3105,56039,WY,Teton County,No records
+3106,56041,WY,Uinta County,No records
+3107,56043,WY,Washakie County,No records
+3108,56045,WY,Weston County,No records

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  <head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="icon" href="../images/nj_icon.png" type="image/x-icon" sizes="16x16">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="..\css\stylesheet.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">NJ Lyme</a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="../../">Home</a></li>
+          <li><a href="prev.html">Prevention</a></li>
+          <li class="active"><a href="static/pages/doc.html">Documentation</a></li>
+          <li><a href="ref.html">References</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">More Info
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="https://www.cdc.gov/lyme/index.html" target="_blank">CDC - Lyme Disease</a></li>
+              <li><a href="https://www.state.nj.us/health/cd/topics/lyme.shtml" target="_blank">NJ DOH</a></li>
+              <li><a href="https://www.lymedisease.org/" target="_blank">LymeDisease.org</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+</nav>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12" style="text-align:center">
+            <h1 style="margin-top:80px; margin-bottom:40px;">
+                Documentation
+                <br>
+                <i><small>tasks, tools, limitations</small></i>
+            </h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row" style="text-align:center">
+          <h3>
+            Background
+          </h3>
+					<p>
+						The incidence of Lyme disease has been increasing in recent years. We started this project with the goal of examining that increase and analyzing how ecological factors may be contributing. Data was reviewed for the entire United States, but the primary focus was on New Jersey. This was because New Jersey has a higher prevalence of Lyme disease than many other states and it is local to our team. We identified the following questions as guides for research in determining trends for the incidence of Lyme disease:
+					</p>
+          <ul style="list-style:none">
+            <li>
+              Is Lyme disease more common in counties with higher deer populations?
+            </li>
+            <li>
+              Does deer hunting / population control reduce Lyme disease?
+            </li>
+            <li>
+              Is warm weather a predictor in the following year's Lyme disease rates?
+            </li>
+            <li>
+              Do oak mast years cause an increase in Lyme disease the following year?
+            </li>
+          </ul>
+        </div>
+      </div>
+      <br>
+      <hr>
+				<div class="col-md-6">
+          <h3>
+            Tasks
+          </h3>
+					<dl>
+						<dt>
+							Find and extract source data
+						</dt>
+						<dd>
+						  The first step was identifying data sources and extracting the data from them.
+						</dd>
+						<dt>
+							Data cleaning and normalization
+						</dt>
+						<dd>
+							From our raw data inputs we cleaned and normalized the data with the goal of setting up a reference database.
+						</dd>
+						<dt>
+							Database management
+						</dt>
+						<dd>
+							Normalized data was then loaded into a Postgres development database prior to being converted into a Heroku database.
+						</dd>
+						<dt>
+							Analysis and visualization
+						</dt>
+						<dd>
+							Visualizations were built concurrently by different team members, with some charts being worked on in teams. We aimed to use a variety of JavaScript libraries to build our visualizations.
+						</dd>
+            <dt>
+              Build dashboard and website
+            </dt>
+            <dd>
+              The dashboard function of the website was built around the interative visualizations before the website was finished with styling and written content.
+            </dd>
+					</dl>
+				</div>
+        <div class="col-md-6">
+          <h3>
+            Limitations
+          </h3>
+          <ul>
+            <li class="list-item">
+              Data was not completely available for all counties and / or years for NJ.
+            </li>
+            <li class="list-item">
+              The number of ticks in an area was not available, just if a tick presence was established.
+            </li>
+            <li class="list-item">
+              Lyme disease cases were based on residency of the affected subject rather than where it was contracted.
+            </li>
+            <li class="list-item">
+              Mast index not recorded by NJ, we had to use local news reporting to identify mast years, which may be incomplete.
+            </li>
+            <li class="list-item">
+              Monthly weather data was too granular for our time frame to fully analyze.
+            </li>
+            <li class="list-item">
+              Deer population data had to be extrapolated for certain years.
+            </li>
+            <li class="list-item">
+              Deer harvest data was based on Deer Management Zones, some of which spanned multiple counties so assumptions had to be made in assigning a single county to each zone.
+            </li>
+          </ul>
+        </div>
+	</div>
+	<div class="row">
+		<div class="col-md-12" style="text-align:center">
+          <h3>
+            Technology Tools Stack 
+          </h3>
+					<dl>
+						<dt>
+							Data Scraping
+						</dt>
+						<dd>
+							Splinter - web scraping
+						</dd>
+            <dd>
+              Beautiful Soup - web scraping
+            </dd>
+            <dd>
+              Pandas HTML table read - web scraping
+            </dd>
+            <dd>
+              Tabula - PDF table data scraping
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+						<dt>
+							Cleaning and Normalization
+						</dt>
+            <dd>
+              Pandas - Dataframe manipulation
+            </dd>
+            <dd>
+              numPy - data handling
+            </dd>
+            <dd>
+              Statistics - linear regression for population extrapolation
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+						<dt>
+							Database Setup and Management
+						</dt>
+						<dd>
+							Flask - local hosting server 
+						</dd>
+            <dd>
+              SQLAlchemy - database loading
+            </dd>
+            <dd>
+              Postgres - local database storage
+            </dd>
+            <dd>
+              Heroku Postgres - Heroku database storage
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+						<dt>
+  						Analysis and Visualizations
+						</dt>
+						<dd>
+							d3.js - Interactive Charts
+						</dd>
+            <dd>
+              plotly.js - Pie Charts
+            </dd>
+            <dd>
+              leaflet.js - Choropleth, Heatmap
+            </dd>
+            <dd>
+              Chart.js - Line Charts
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+            <dt>
+              Dashboard and Website Build
+            </dt>
+            <dd>
+              Heroku - website hosting
+            </dd>
+            <dd>
+              Bootstrap - formatting
+            </dd>
+            <dd>
+              ToolTip and Custom CSS
+            </dd>
+            <dd>
+              AOS - scroll animations
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+            <dt>
+              Development Environments
+            </dt>
+            <dd>
+              Visual Studio
+            </dd>
+            <dd>
+              PyCharm
+            </dd>
+            <dd>
+              Atom
+            </dd>
+            <dd>
+              Jupyter Nootebook
+            </dd>
+            <dt>
+							<hr width="200">
+						</dt>
+            <dt>
+              Collaboration
+            </dt>
+            <dd>
+              GitHub - version control
+            </dd>
+            <dd>
+              Slack - messaging
+            </dd>
+            <dd>
+              Zoom - video interface, screen sharing
+            </dd>
+					</dl>
+				</div>
+      </div>
+			</div>
+  </body>
+
+  </html>

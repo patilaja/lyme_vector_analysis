@@ -9,7 +9,7 @@ verify_ssl = true
 python-dotenv = "*"
 gunicorn = "*"
 psycopg2 = "==2.8.4"
-certifi = "==2020.6.20"
+certifi = "==2022.12.7"
 click = "==7.1.2"
 itsdangerous = "==1.1.0"
 jinja2 = "==2.11.2"
